@@ -1,7 +1,7 @@
 # Tales of Vesperia Guide
 ## Where to Start
 1. Navigate to `guides` and view `checklist.md`.
-2. Use the checkbox as keep track of the events.
+2. Use the checkbox to keep track of the events.
 
 ## Alternative link
 The checkbox doesn't seem to work when viewing in GitHub but works over at GitHubGist.
