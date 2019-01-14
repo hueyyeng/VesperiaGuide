@@ -1,7 +1,7 @@
-## Kouli's Guide for Tales of Vesperia
+# Kouli's Guide for Tales of Vesperia
 - Missables Checklist in Markdown
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 14 January 2019
+- Last updated: 15 January 2019
 - Source: https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov
 
 ### TODO:
@@ -198,7 +198,7 @@
 ## Zaude
 - [ ] At the area with the Giganto, go up near the Main Gate for the *Beautiful Star* (Maris Stella). This is needed for Secret Mission 20 (PS3 Version)
 
-# Act 3
+# Act Three
 
 ## After Everyone Joins Back
 - [ ] In Zaphias, talk to LeBlanc for Raven's Imperial Knights Captain title (Rebuilding The Union Part 2)
@@ -326,7 +326,7 @@ ___After the above, you may save the game___
 - [ ] Use the Left Lift at the end to get out of Tarqaron. In Zaphias, speak with Ted near the Fountain for Yuri's Claimh Solais. Yuri will get Half Hope Of The Town title and in PS3 Version, Flynn will also get Half Hope Of The Town title (Hope Of The Town)
 
 ### Combination HiOugi
-- [ ] After (Hope Of The Town), Yuri and Flynn can now do their Combination HiOugi, Bushin Soutenha. Yuri has to at least used 蒼破刃 Souhajin and 守護方陣 Shugo Houjin 200 times each. Flynn has to at least used 魔神剣 Majinken and 守護方陣 Shugo Houjin 200 times each. During battle, make sure both Yuri and Flynn are in OVL 4. Either Yuri or Flynn uses an Ougi or above then press and hold Square, X and Circle. The difficult part is to get both Yuri and Flynn be in OVL 4.
+> After (Hope Of The Town), Yuri and Flynn can now do their Combination HiOugi, Bushin Soutenha. Yuri has to at least used 蒼破刃 Souhajin and 守護方陣 Shugo Houjin 200 times each. Flynn has to at least used 魔神剣 Majinken and 守護方陣 Shugo Houjin 200 times each. During battle, make sure both Yuri and Flynn are in OVL 4. Either Yuri or Flynn uses an Ougi or above then press and hold Square, X and Circle. The difficult part is to get both Yuri and Flynn be in OVL 4.
 
 There are few ways to do so:
 
