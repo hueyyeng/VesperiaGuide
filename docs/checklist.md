@@ -1,12 +1,13 @@
 ## Kouli's Guide for Tales of Vesperia
 - Missables Checklist in Markdown
-- Author: @tauke
-- Last updated: 12 January 2019
+- Author: [@tauke](https://twitter.com/tauke)
+- Last updated: 14 January 2019
 - Source: https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov
 
 ### TODO:
 - Replace Japanese names with official English names in Definitive Edition.
 - Insert screenshots/video links.
+- Update ___CSS___ theme.
 
 # Act One
 
