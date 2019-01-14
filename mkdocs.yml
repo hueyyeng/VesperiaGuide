@@ -1,0 +1,11 @@
+site_name: Vesperia Guide
+nav:
+  - Home: 'index.md'
+  - Missables Checklist: 'checklist.md'
+  - CHANGELOG: 'CHANGELOG.md'
+markdown_extensions:
+  - pymdownx.tasklist:
+      clickable_checkbox: True
+  - pymdownx.tilde
+extra_css:
+  - css/custom.css
