@@ -260,7 +260,26 @@
 - [ ] In Namcot Island, head in the Gym and speak with the Woman near the Stage to get the Drama Series titles, Estelle's Warrior's Sword and Shield (Drama Lovers)
 
 ## VS Flynn
-- [ ] Flynn uses various abilities (there was a lot of Japanese here and the translation made zero sense) and his HiOugi *Light Dragon Boiling Spear* (PS3 Version)
+- [ ] Flynn uses various abilities ~~(there was a lot of Japanese here and the translation made zero sense)~~ and his HiOugi *Light Dragon Boiling Spear* (PS3 Version)
+
+Here's the list of abilities (thanks to __Massicot__ from ResetEra!):
+
+- [ ] Rising Falcon
+- [ ] Sonic Thrust
+- [ ] Dragon Swarm
+- [ ] Hell Fire Blade
+- [ ] Tiger Blade
+- [ ] Shining Falcon
+- [ ] Beast
+- [ ] Severing Blade
+- [ ] Demon Fang
+- [ ] Demonic Chaos
+- [ ] First Aid (Heal)
+- [ ] Guardian Field (Heal)
+- [ ] Holy Lance (Spell Arte)
+- [ ] Luminant Scythe (Spell Arte)
+- [ ] Radiant Dragon Fang (Mystic Arte)
+
 
 ## After Aurnion
 - [ ] You will obtain the *Meisei No.2* (Vesperia 2nd) and Flynn joins the party PERMANENTLY (PS3 Version)
