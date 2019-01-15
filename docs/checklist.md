@@ -2,7 +2,7 @@
 - Missables Checklist in Markdown
 - Author: [@tauke](https://twitter.com/tauke)
 - Last updated: 15 January 2019
-- Source: https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov
+- Source: [https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 ### TODO:
 - Replace Japanese names with official English names in Definitive Edition.
@@ -18,12 +18,18 @@
  - [ ] Near Zaphias, you can find the travelers' inn King Of Adventure (King Of Adventure Part 1)
 
 ## Deidon Hold
+![alt text](images/act-one-003.jpg)
+
  - [ ] Find Duke on the roof of the Chevaliers' Station (Duke Part 1)
 
 ## After Karol joins the Party
+![alt text](images/act-one-004.jpg)
+
  - [ ] With Karol in the party, go to the travelers' inn King Of Adventure. Rest to meet with Rich and make sure this is done ***BEFORE*** killing any upcoming Giganto Monster (King Of Adventure Part 2)
 
 ## Aspio
+![alt text](images/act-one-005.jpg)
+
  - [ ] After Rita joins the party, check the second floor of Rita's House for Collector Book (Collector Book Part 1)
  - [ ] After Shaikos Ruins and with Rita in the party, check a Blastia in Rita's House to name it Victoria. This should be done no later than after getting the Golden Horn in the main story (Brionac Part 1)
 
@@ -364,4 +370,3 @@ There are few ways to do so:
 - [ ] Visit every location on the World Map including the Aer Krenes and the Extra Dungeon (In the PS3 Version, there is also the NEW Extra Dungeon Telescopic Graveyard). Sleep at the King Of Adventure to get Estelle's Curious Princess title (Curious Princess)
 - [ ] Once you have seen all 12 Friends of Patty's HiOugi Summon Friends, enter Nordopolika and head toward the north. On the way, you will see Gim on the stairs. Talk to him and Patty will obtain the Successor Of The Great Pirate's Name title (PS3 Version)
 - [ ] You can now go down further in the Telescopic Graveyard (PS3 Version)
-

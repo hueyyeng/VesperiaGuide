@@ -1,7 +1,9 @@
 # Changelog
 
 ## 0.0.3 (2019-01-15)
-- Use ReadTheDocs Dropdown theme. https://github.com/cjsheets/mkdocs-rtd-dropdown
+- [Use ReadTheDocs Dropdown theme.](https://github.com/cjsheets/mkdocs-rtd-dropdown)
+- [Use Markdown Checklists to generate unique ID for each checkbox.](https://pypi.org/project/markdown-checklists/)
+- Add JavaScript to remember checkbox value using cookies.
 - Minor code formatting fix.
 
 ## 0.0.2 (2019-01-14)
