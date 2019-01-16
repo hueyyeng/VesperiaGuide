@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.4 (2019-01-16)
+- Replace Fell Arms name with the official English translation from Definitive Edition.
+- Minor typo fixes.
+
 ## 0.0.3 (2019-01-15)
 - [Use ReadTheDocs Dropdown theme.](https://github.com/cjsheets/mkdocs-rtd-dropdown)
 - [Use Markdown Checklists to generate unique ID for each checkbox.](https://pypi.org/project/markdown-checklists/)

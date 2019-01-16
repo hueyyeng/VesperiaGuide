@@ -1,8 +1,8 @@
 # Kouli's Guide for Tales of Vesperia
 - Missables Checklist in Markdown
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 15 January 2019
-- Source: [https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
+- Last updated: 16 January 2019
+- Source: [Kouli's Guide -Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 ### TODO:
 - Replace Japanese names with official English names in Definitive Edition.
@@ -34,14 +34,18 @@
  - [ ] After Shaikos Ruins and with Rita in the party, check a Blastia in Rita's House to name it Victoria. This should be done no later than after getting the Golden Horn in the main story (Brionac Part 1)
 
 ## Ehmead Hill
+![alt text](images/act-one-008.jpg)
+
  - [ ] After Repede and Karol join back the party, get back to Halure and talk to the Elder near the tree (Under The Tree Part 1)
  - [ ] At the cliff, check the small grave stone. Further, you can go back to Halure and speak with the couple near the entrance (Elucifer's Grave Part 1)
  - [ ] Afterward, head toward the Blastia that is blocking the main road to name it Ekaterine (Blastia Destroyer)
 
 ## Capua Nor
- - [ ] After meeting with Flynn, talk to Karol and Rita by the Inn. Before entering the Inn, go west to meet with Patty for the Cicada Doll (PS3 Version)
+![alt text](images/act-one-010.jpg)
+
+ - [ ] After meeting with Flynn, talk to Karol and Rita by the Inn. Before entering the Inn, go west to meet with Patty for the __Cast-off Doll__ (PS3 Version)
  - [ ] Beat Dice Game Master for Rita's New Dice Master title. In Part One, you can win Gel Set. In Part Two, you can win Bottle Set. In Part Three, you can win Super Gel Set (Dice Game)
- - [ ] In Lagou's Mansion, you will meet with Patty (PS3 Version)
+ - [ ] In Ragou's Mansion, you will meet with Patty (PS3 Version)
 
 ## Capua Torim
  - [ ] Afterward, sleep at the Inn (Dark Enforcer Part 1)
@@ -50,11 +54,14 @@
  - [ ]  Sun (Password)
 
 ## Heliord
- - [ ] After Estelle joins back at the end, get near the Barrier Blastia to find Drake (Estelle's Teacher Part 1)
- - [ ] After Estelle joins back at the end, enter the Chevaliers HQ to find Asciutto. The dialogue differs if you wait until Raven joins the party (Yuri And The Chevaliers)
- - [ ] After Estelle joins back at the end, rest at the Inn (Laborer)
- - [ ] After Estelle joins back at the end, go right just before the Inn to find the Wonder Reporter (Wonder Reporter Part 2)
- - [ ] After Estelle joins back at the end, go back to Caer Bocram and head left to find Duke (Duke Part 2)
+
+After Estelle joins back at the end:
+
+ - [ ] Get near the Barrier Blastia to find Drake (Estelle's Teacher Part 1)
+ - [ ] Enter the Chevaliers HQ to find Asciutto. The dialogue differs if you wait until Raven joins the party (Yuri And The Chevaliers)
+ - [ ] Rest at the Inn (Laborer)
+ - [ ] Go right just before the Inn to find the Wonder Reporter (Wonder Reporter Part 2)
+ - [ ] Go back to Caer Bocram and head left to find Duke (Duke Part 2)
 
 ## Dahngrest
  - [ ] Before anything, you can enter the Bistro Black Hole (PS3 Version)
@@ -108,7 +115,7 @@
 ## Capua Torim
 - [ ] Go toward the Harbor to get the Marking Map and Repede's Fated One title. In Zaphias, talk to a dog at the right side of the shop to get the Friendly Fur Ball. Upon 50% completion of the Dog Map, a scene will trigger automatically (Dog Map Part 1)
 
-## Nordopolika
+## Nordopolica
 - [ ] Speak with the fish seller (The Dragoon Part 2)
 - [ ] Find Drake on the way to the north (Estelle's Teacher Part 2)
 - [ ] After talking to Natts, go toward the Harbor to meet with Patty (PS3 Version)
@@ -132,11 +139,11 @@
 - [ ] After Yormgen, speak with the kids at NE for Hourglass, Miracle Gel or Mix Gel (Reward For Helping Others)
 - [ ] After the event with Flynn by the lake, reenter Mantaic and take the right path near the Inn to speak with the Cow Boy. Hand over Apple Gel for Milk (Cow Boy Part 1)
 
-## Nordopolika
+## Nordopolica
 - [ ] Afterward, return to Heliord and talk to the two near the eastern entrance/exit. Patty will learn Search Gald and obtain the Gald Searcher title (PS3 Version)
 - [ ] Afterward, return to Zaphias and head into Yuri's Room to get Bread from Ted (Yuri's Downtown Life)
 
-## After The Death Of Don
+## After the Death Of Don
 - [ ] In Dahngrest, enter the western bar and you will get the Royal Family's Crest from Drake (Estelle's Teacher Part 3)
 - [ ] In Dahngrest, sleep at the Inn for Karol's Insomniac title (Sleepless Night)
 - [ ] In Dahngrest, sleep at the Inn and there is a 100% chance that you will get a scene. Repeat this for four scenes in total. Karol will learn the Special skill which enables him to use HiOugi (Hard Working Boy)
@@ -147,10 +154,10 @@
 - [ ] If you have done (Bug Hater), go to Mantaic to rest at the Inn and pick Yes (Portrait Of Nan)
 - [ ] In Mantaic, hand over Trident for Rice, Potato, Onion and Carrot (Cow Boy Part 2)
 - [ ] In Mantaic, go north and speak with Clay. Sleep at the Inn and go north (Dark Enforcer Part 4)
-- [ ] In Nordopolika, toward the north (Truth Of Ruin's Gate Final Part)
-- [ ] In Nordopolika, head toward the Arena and speak with Natts (After The Death Of Belius)
-- [ ] In Nordopolika, the Arena is now open. Clear 30 Man, 50 Man and 80 Man Melee for now (Arena Part 1)
-- [ ] In Nordopolika, if you have cooked 600 times and Patty has three recipes MASTER, talk to the person to the right of the Shop (PS3 Version)
+- [ ] In Nordopolica, toward the north (Truth Of Ruin's Gate Final Part)
+- [ ] In Nordopolica, head toward the Arena and speak with Natts (After The Death Of Belius)
+- [ ] In Nordopolica, the Arena is now open. Clear 30 Man, 50 Man and 80 Man Melee for now (Arena Part 1)
+- [ ] In Nordopolica, if you have cooked 600 times and Patty has three recipes MASTER, talk to the person to the right of the Shop (PS3 Version)
 - [ ] In Ehmead Hill, go toward the grave on the cliff to find Duke (Elucifer's Grave Final Part)
 - [ ] Enter Ehmead Hill from the western entrance/exit. Go north, east and north to get the Fire Lilly (Avenging Soldiers Part 1)
 - [ ] Enter Ehmead Hill from the eastern entrance/exit. Go toward the Blastia that is blocking the main road. Head to Aspio and check the bookshelf in the western house for Hermes Memo. Go to Capua Torim and rest at the Inn to learn Negative Gate. If you are to do this later in the game, you can get Hermes Memo from a Mage in the Inn of Capua Torim (Study Of Hermes Part 1)
@@ -165,9 +172,9 @@
 - [ ] In Dahngrest, enter the western bar and speak with the middle Bartender. Clear all three levels with everyone except Yuri, Patty and Repede for the Waiter/Waitress series titles. When you play the Waiter/Waitress Game at latter part of the game, you can win more Gald (Waiter/Waitress Game)
 
 ## Aspio
-- [ ] To get the Guidepost Of Myorzo, you need to go to the Lenanthra Hollow (PS3 Version)
+- [ ] To get the Guidepost Of Myorzo, you need to go to the Lenansla Cavern (PS3 Version)
 
-## Lenanthra Hollow
+## Lenansla Cavern
 - [ ] Around the middle of the Hypionia Continent, look for a beach with red flowers (PS3 Version)
 
 ## Myorzo
@@ -177,7 +184,7 @@
 ## Yormgen
 - [ ] Flynn joins the party temporarily (PS3 Version)
 
-## With Flynn In Party
+## With Flynn in the Party
 - [ ] In Mantaic, go toward the west to get Flynn's Bearer Of Chivalry title (PS3 Version)
 
 ## Baction
@@ -192,8 +199,8 @@
 - [ ] In Crag Of Phaeroh, get near the Phantom Seam. Within Yormgen, speak with the Sage within the NW house and rest afterward (Extra Dungeon Part 1)
 - [ ] At the NW of the World Map, you can find Yuumanju at the further north of Mt Temza. Speak with the Receptionist and that is it for now. In the meantime, prepare 900000 Gald (Hotspring Part 1)
 - [ ] In Mantaic, speak with the Cow Boy. Hand over Poison Charm, Paralyze Charm and Stone Charm for Flare Mantle (Cow Boy Part 3)
-- [ ] In Myorzo, obtain the Abicion from the Elder (Fell Weapons Part 1)
-- [ ] In Nordopolika, arrange the Warehouse for Specific, Paralyze Charm, Treat and 2000 Gald as the reward (Tidy Up The Warehouse Part 4)
+- [ ] In Myorzo, obtain the Abyssion from the Elder (Fell Arms Part 1)
+- [ ] In Nordopolica, arrange the Warehouse for Specific, Paralyze Charm, Treat and 2000 Gald as the reward (Tidy Up The Warehouse Part 4)
 - [ ] In Capua Nor, go west to find Duke (Duke Final Part)
 - [ ] In Capua Torim, toward the port to get the ship modified with Salvage Crane. It works automatically while sailing the sea (Professor Sicily Part 3)
 - [ ] In Capua Torim, speak with the Old Man to the right of the western stairs. You need seven kinds of Food Materials but you can buy them all. For the Pointed Carver, you need *Sharp Blade* Pointed Edge and *Freestone* Flare Stone. Go to the western bar in Dahngrest, talk to the right Bartender for the Pointed Carver. Report back to the Old Man for the Fisherman Pot recipe (PS3 Version)
@@ -232,26 +239,26 @@
 - [ ] In Halure, get near the tree for Estelle to learn Force Field (Under The Tree Part 4)
 - [ ] In Myorzo, head to the second area. Speak with the Kid at the lower right to play the Dragon Race. Clear Level 3 to get Clones Dew which will power up Baul automatically. If you clear Level 5, you can get The Red Mantle and Judith's Super Dragon Rider title. If you have done at least 1000 Fatal Strike Chains, rest at the Inn then speak with the Kid for Judith's Into The Sky title (Dragon Race Final Part)
 
-## After Nordopolika
+## After Nordopolica
 - [ ] In Aspio, head toward the center. Rest at the Inn at least twice and head toward the center again for Rita to learn Meteor Swarm. If you are to activate this later in the game, go to Halure instead (Spirit Magic Part 1)
 - [ ] In Dahngrest, rest at the Inn (Raven And The Heart Blastia)
 - [ ] In Myorzo, speak with the Elder (Judith's Sundering Moon Part 1)
-- [ ] If you have finished (Sexy Clothes), sail to the near west of Nordopolika and check the Harvest Point for Patty's Glamorous Walker title (PS3 Version)
+- [ ] If you have finished (Sexy Clothes), sail to the near west of Nordopolica and check the Harvest Point for Patty's Glamorous Walker title (PS3 Version)
 
 ## After Getting All Four Spirits
 - [ ] A scene will trigger while flying around with Baul (Anxiety Of Spiritization)
-- [ ] At the SE of Weasand Of Cados, you can find the Four Sisters Islands. Head in the rock formation on one of the islands. You will get the Zariche then head inside for Sorcerer Ring Level 4 (Fell Weapons Part 2)
-- [ ] With Sorcerer Ring Level 4, explore Keiv Moc thoroughly for more items. You can also find the Nebilim (Fell Weapons Part 3)
-- [ ] With Sorcerer Ring Level 4, explore Relewiese Hollow thoroughly for more items. You can also find the Mercurius (Fell Weapons Part 4)
-- [ ] With Sorcerer Ring Level 4, go back to Quoi Forest. From the eastern entrance/exit, go west a bit and look out for rotten grass. Burn them to an area where you can find the Glashalabolas (Fell Weapons Part 5)
+- [ ] At the SE of Weasand Of Cados, you can find the Four Sisters Islands. Head in the rock formation on one of the islands. You will get the Zarich then head inside for Sorcerer Ring Level 4 (Fell Arms Part 2)
+- [ ] With Sorcerer Ring Level 4, explore Keiv Moc thoroughly for more items. You can also find the Nebilim (Fell Arms Part 3)
+- [ ] With Sorcerer Ring Level 4, explore Relewiese Hollow thoroughly for more items. You can also find the Mercurius (Fell Arms Part 4)
+- [ ] With Sorcerer Ring Level 4, go back to Quoi Forest. From the eastern entrance/exit, go west a bit and look out for rotten grass. Burn them to an area where you can find the Glasya Labolas (Fell Arms Part 5)
 - [ ] Before you go on any further, make sure you have at least completed 50% of the Collector Book. Walk up the stairs in the west house in Aspio. Later, when you have completed 100% of the Collector Book, head toward the fountain at the west in Halure. You will get Limits Bottle and Estelle's Item Mania title. Make sure you at least activate the part in Aspio NOW because you are JUST before the deadline (Collector Book Final Part)
 
 ## After Capua Nor
 - [ ] When Patty goes off at nighttime, follow her to the west and toward the port behind the mansion. Get on the boat to the Atherum. Go up to the deck and when fighting Cifer The Wandering Skeleton, use the *Beautiful Star* (Maris Stella) (Secret Mission 20, PS3 Version)
 - [ ] Fly toward Zaphias and head inside. Head down toward the Fountain from the north. After, head toward the Castle. In the PS3 Version, enter the Citizen Quarter then toward the Castle (Future Of Blastia)
 - [ ] In Zaphias, sleep in Yuri's Room. Rita gets Imperial Princess' Close Friend title and Estelle gets Genius Mage's Close Friend title (PS3 Version)
-- [ ] In Zaphias, enter Estelle's Room in the Castle to hear about the Telescopic Graveyard. Go to the last area in Zaude and you will be able to enter the Telescopic Graveyard. At the first layer, *Soten Layer* Azure Sky Layer, you can find Flynn's Fell Weapon Nanatsusaya (Seven Branched Sword) at the NW of the 8F. At the second layer, *Current Generation* Current Life Layer, you can find Patty's Fell Weapon Courbis at the SE of 9F. After beating Ohma, you won't be able to advance further until you have beaten the game (PS3 Version)
-- [ ] Fly to the Wekea Continent and land at the SE Part. You can encounter the Giganto Bloody Beak (PS3 Version)
+- [ ] In Zaphias, enter Estelle's Room in the Castle to hear about the Telescopic Graveyard. Go to the last area in Zaude and you will be able to enter the Telescopic Graveyard. At the first layer, *Soten Layer* Azure Sky Layer, you can find Flynn's Fell Weapon Seven-Branched Blade at the NW of the 8F. At the second layer, *Current Generation* Current Life Layer, you can find Patty's Fell Weapon Corbis at the SE of 9F. After beating Ohma, you won't be able to advance further until you have beaten the game (PS3 Version)
+- [ ] Fly to the Wecca Continent and land at the SE Part. You can encounter the Giganto Bloody Beak (PS3 Version)
 - [ ] After beating all eleven Giganto Monsters, go back to speak with Rich for Karol's Valiant Swordsman title. Go back to Capua Torim to speak with Rich's Father and report back to Rich (King Of Adventure Part 3)
 - [ ] In Capua Torim, sleep at the Inn to see Karol's Dream (PS3 Version)
 - [ ] In Capua Torim, you can enter the Lighthouse which is Patty's Home (PS3 Version)
@@ -261,7 +268,7 @@
 - [ ] Go to Yuumanju and speak with the Man at the upper left for the Tiara. Check the upper left Toy Machine in Yuumanju for three statues. Go to Zaphias and speak with Hanks for one more statue. For the last six statues, you get them through the Toy Machines in the Gym of Namcot Island. There is one statue each from 10 Chip Machine and 500 Chip Machine then two statues each from 100 Chip Machine and 50 Chip Machine. With all the statues, report back to the Man in Yuumanju for Yuri's Recollection Guardian title (Favorite Toys Final Part)
 - [ ] In Namcot Island, speak with the Ant Lion near the entrance/exit after you have done (Favorite Toys Final Part). If you have opened up 445 (86%) Treasure Boxes, you will get Yuri's Treasure Hunter title (Treasure Hunter)
 
-## After Flynn Leaves The Party
+## After Flynn Leaves the Party
 - [ ] In Dahngrest, you can meet with Dyne a bit north from the Inn. Go toward the intersection in Mantaic and go to Mt Temza to fight the Giganto Monster. Go back to speak with Dyne at the intersection in Mantaic (Guild Quest Part 6)
 - [ ] In Namcot Island, head in the Gym and speak with the Woman near the Stage to get the Drama Series titles, Estelle's Warrior's Sword and Shield (Drama Lovers)
 
@@ -280,6 +287,7 @@ Here's the list of abilities (thanks to __Massicot__ from ResetEra!):
 - [ ] Severing Blade
 - [ ] Demon Fang
 - [ ] Demonic Chaos
+- [ ] Demonic Circle
 - [ ] First Aid (Heal)
 - [ ] Guardian Field (Heal)
 - [ ] Holy Lance (Spell Arte)
@@ -315,11 +323,11 @@ ___After the above, you may save the game___
 - [ ] With the Hunting Blades' Invitation 2 and if you have cleared Introductory Rank of Team Battle at the Arena, you will then unlock Majestic Rank of Team Battle. If you don't have Karol and Raven in the Active Party, then you will fight them in the Majestic Rank (PS3 Version)
 - [ ] In Heliord, go down to the Lower Section and talk to Witcher. Karolow X will be modified (PS3 Version)
 - [ ] After (One Night Training), go to Dahngrest. Head toward the central area and pick either choice for Karol's Infinity (Big Voice Contest)
-- [ ] With all recipes from Wonder Chef and all developed recipes, go to the Port in Nordopolika to talk to Wonder Chef for Mabo Curry recipe and the Cooking Battle Invitation. Go to Dahngrest to enter The Bistro Black Hole. The Participant should have MASTER on all HP or TP Recovery recipes and at least Three Stars for all other recipes. That will win you the Cooking Series titles (Cooking Battle)
+- [ ] With all recipes from Wonder Chef and all developed recipes, go to the Port in Nordopolica to talk to Wonder Chef for Mabo Curry recipe and the Cooking Battle Invitation. Go to Dahngrest to enter The Bistro Black Hole. The Participant should have MASTER on all HP or TP Recovery recipes and at least Three Stars for all other recipes. That will win you the Cooking Series titles (Cooking Battle)
 - [ ] In Yormgen, check the Red Box (Illusion)
 - [ ] In Yormgen, speak with the Butler of the Nobles. Enter the Zopheir Rift from the west and you will see the Micro Circuit. Report back and the male characters will get their Swimsuit Series titles. Talk to the Butler and go to Halure. Go west and talk to Giovanni near the Fountain for the Super Aer Board. Report back and the female characters will get their Swimsuit Seies titles (PS3 Version)
 - [ ] Go to Mt Temza and head to the third area for Judith's Sundering Moon (Judith's Sundering Moon Final Part)
-- [ ] Fly to the Yurzorea Continent East and enter the rock formation for the Sorcerer Ring Level 5 (Fell Weapons Part 6)
+- [ ] Fly to the Yurzorea Continent East and enter the rock formation for the Sorcerer Ring Level 5 (Fell Arms Part 6)
 - [ ] In Yuumanju, you can get the Hotspring Series titles (Hotspring Part 3)
 - [ ] In Aurnion, toward the left of the Blastia when Repede is at least Level 60 to get Repede's Tough Hound title
 (Tough Hound)
@@ -338,13 +346,13 @@ ___After the above, you may save the game___
 - [ ] After (Guild Quest Part 7), go toward the tree in Halure to get Rita's Ivy Blade (Spirit Magic Final Part)
 - [ ] In Mantaic, hand over Silver Edge + 1 Alpha to Cow Boy for Spectacles, Krona Symbol, Blue Dice, Reverse Doll, Holy Avenger, Super Electric Yoyo, Dragon Helm, Paladin Mantle, Black Onyx, Special Gel, Red Sage, Hourglass, Alexandrite and Reverse Doll (Cow Boy Final Part)
 - [ ] Repeatedly use any tent item on the World Map for Flynn to learn Kouha Senshoujin (PS3 Version)
-- [ ] In the Lenanthra Hollow, head toward the Graveyard (PS3 Version)
+- [ ] In the Lenansla Cavern, head toward the Graveyard (PS3 Version)
 - [ ] Enter Relewiese Hollow for a scene with Sylph (PS3 Version)
 - [ ] Enter Capua Nor and talk to Hisuka. Shastil will then show up. They are Senior Knights from the ToV Movie. Anyway, they are looking for the Sword Of Prayer which is a Treasure of the Chevaliers that got stolen by Alexei. Enter the Aer Krene that is at the SE of Weasand Of Cados. Within, go north to get to the Deep Hollow Region. At the end, get near the center to fight Sword Dancer. Exit out and enter the Aer Krene at the south of Zaphias. At the end, get near the center to fight Sword Dancer. Exit out and enter the Aer Krene at the north of Caer Bocram. At the end, there won't be a battle, so exit out and head to the last Aer Krene which is at the southeast of Yuumanju. At the end, you will fight Sword Dancer one last time. Back track out to meet with Hisuka and Shastil. They will give the Sword Of Prayer Lag Quarion to Flynn (PS3 Version)
 
 ## Tarqaron
 - [ ] Equip the Shining Star title and make Raven as the On Screen Character. From the last Memory Circle, back track and go SE to a new area. Continue on to trigger a scene (Encouragement Of The Schwann Team Final Part)
-- [ ] At the huge area with ladders, look for a path around the middle or the east. They lead to the Susanoo and the Uroboros. With all seven (nine in PS3 Version) Fell Weapons, exit out Tarqaron and head to Aurnion (In PS3 Version, you don't need to go to Aurnion). Go fight the Last Boss and you will fight his Third Form to unlock the Fell Weapons. The strength of the Fell Weapons depends on how many enemies killed with or without equipping the Fell Weapons (Fell Weapons Final Part)
+- [ ] At the huge area with ladders, look for a path around the middle or the east. They lead to the Susanoh and the Uroboros. With all seven (nine in PS3 Version) Fell Arms, exit out Tarqaron and head to Aurnion (In PS3 Version, you don't need to go to Aurnion). Go fight the Last Boss and you will fight his Third Form to unlock the Fell Arms. The strength of the Fell Arms depends on how many enemies killed with or without equipping the Fell Arms (Fell Arms Final Part)
 - [ ] In Aurnion, you can find Agueron at NW. Talk to him and hand over raw materials to him for a total of three times. To make him reappear after each handover, sleep at the Inn few times and reenter Aurnion. After the third time, sleep few times and reenter Aurnion. You will get the King's Mantle (Development Of Aurnion)
 - [ ] In Developed Aurnion, speak with Yodel at the west to get Estelle's Blue Crystal Rod (Estelle's Teacher Final Part)
 - [ ] In Developed Aurnion, arrange the Warehouse for Special Gel, Strange Piece, Spring Of Knowledge, 2000 Gald and Karol's Warehouse Master title (Tidy Up The Warehouse Final Part)
@@ -368,5 +376,5 @@ There are few ways to do so:
 - [ ] In Yuumanju, equip everyone with the Hotspring Series titles and speak with the Receptionist (Hotspring Final Part)
 - [ ] Sleep at any Inn then talk to the Receptionist in Yuumanju. Repeat for Flynn's Spike Armor attachment, Judith's Glamorous Beauty title and Karol's Black Tights title (PS3 Version)
 - [ ] Visit every location on the World Map including the Aer Krenes and the Extra Dungeon (In the PS3 Version, there is also the NEW Extra Dungeon Telescopic Graveyard). Sleep at the King Of Adventure to get Estelle's Curious Princess title (Curious Princess)
-- [ ] Once you have seen all 12 Friends of Patty's HiOugi Summon Friends, enter Nordopolika and head toward the north. On the way, you will see Gim on the stairs. Talk to him and Patty will obtain the Successor Of The Great Pirate's Name title (PS3 Version)
+- [ ] Once you have seen all 12 Friends of Patty's HiOugi Summon Friends, enter Nordopolica and head toward the north. On the way, you will see Gim on the stairs. Talk to him and Patty will obtain the Successor Of The Great Pirate's Name title (PS3 Version)
 - [ ] You can now go down further in the Telescopic Graveyard (PS3 Version)
