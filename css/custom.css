@@ -12,3 +12,9 @@ label {
 	color: #333;
 	font-size: 100%;
 }
+
+.toctree-expand {
+    line-height: 1.6;
+    position: relative;
+    left: -1.1em;
+}
