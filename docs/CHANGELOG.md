@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.5 (2019-01-17)
+- Add dependencies requirements.
+
 ## 0.0.4 (2019-01-16)
 - Replace Fell Arms name with the official English translation from Definitive Edition.
 - Minor typo fixes.
