@@ -1,7 +1,8 @@
 site_name: Vesperia Guide
 nav:
   - Home: index.md
-  - Missables Checklist: checklist.md
+  - Missables Checklist: missables.md
+  - Recipes Checklist: recipes.md
   - CHANGELOG: CHANGELOG.md
 markdown_extensions:
   - markdown_checklists.extension

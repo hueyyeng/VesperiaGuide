@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.6 (2019-01-19)
+- Add Recipes Checklist.
+- Replace `PS3 Version` with `PS3 and Definitive Edition`.
+
 ## 0.0.5 (2019-01-17)
 - Add dependencies requirements.
 
