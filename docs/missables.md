@@ -1,6 +1,6 @@
 # Kouli's Guide for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 19 January 2019
+- Last updated: 20 January 2019
 - Source: [Kouli's Guide -Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 ### TODO:
@@ -17,48 +17,48 @@
  - [ ] Near Zaphias, you can find the travelers' inn King Of Adventure (King Of Adventure Part 1)
 
 ## Deidon Hold
-![alt text](images/act-one-003.jpg)
+![screenshot](images/act-one-003.jpg)
 
  - [ ] Find Duke on the roof of the Chevaliers' Station (Duke Part 1)
 
 ## After Karol joins the Party
-![alt text](images/act-one-004.jpg)
+![screenshot](images/act-one-004.jpg)
 
  - [ ] With Karol in the party, go to the travelers' inn King Of Adventure. Rest to meet with Rich and make sure this is done ***BEFORE*** killing any upcoming Giganto Monster (King Of Adventure Part 2)
 
 ## Aspio
-![alt text](images/act-one-005.jpg)
+![screenshot](images/act-one-005.jpg)
 
  - [ ] After Rita joins the party, check the second floor of Rita's House for Collector Book (Collector Book Part 1)
  - [ ] After Shaikos Ruins and with Rita in the party, check a Blastia in Rita's House to name it Victoria. This should be done no later than after getting the Golden Horn in the main story (Brionac Part 1)
 
 ## Ehmead Hill
-![alt text](images/act-one-008.jpg)
+![screenshot](images/act-one-008.jpg)
 
  - [ ] After Repede and Karol join back the party, get back to Halure and talk to the Elder near the tree (Under The Tree Part 1)
  - [ ] At the cliff, check the small grave stone. Further, you can go back to Halure and speak with the couple near the entrance (Elucifer's Grave Part 1)
- - [ ] Afterward, head toward the Blastia that is blocking the main road to name it Ekaterine (Blastia Destroyer)
+ - [ ] After checking the grave, ___BACKTRACK___ toward the Blastia that is blocking the main road to name it Ekaterine. This is your only window of opportunity to trigger this event (Blastia Destroyer)
 
 ## Capua Nor
-![alt text](images/act-one-010.jpg)
+![screenshot](images/act-one-010.jpg)
 
  - [ ] After meeting with Flynn, talk to Karol and Rita by the Inn. Before entering the Inn, go west to meet with Patty for the __Cast-off Doll__ (PS3 and Definitive Edition)
  - [ ] Beat Dice Game Master for Rita's New Dice Master title. In Part One, you can win Gel Set. In Part Two, you can win Bottle Set. In Part Three, you can win Super Gel Set (Dice Game)
  - [ ] In Ragou's Mansion, you will meet with Patty (PS3 and Definitive Edition)
 
 ## Capua Torim
-![alt text](images/act-one-013.jpg)
+![screenshot](images/act-one-013.jpg)
 
 
  - [ ] Afterward, sleep at the Inn (Dark Enforcer Part 1)
 
 ## Caer Bocram
-![alt text](images/act-one-014.jpg)
+![screenshot](images/act-one-014.jpg)
 
  - [ ]  Sun (Password)
 
 ## Heliord
-![alt text](images/act-one-015.jpg)
+![screenshot](images/act-one-015.jpg)
 
 After Estelle joins back at the end:
 
@@ -69,12 +69,14 @@ After Estelle joins back at the end:
  - [ ] Go back to Caer Bocram and head left to find Duke (Duke Part 2)
 
 ## Dahngrest
-![alt text](images/act-one-020.jpg)
+![screenshot](images/act-one-020.jpg)
 
  - [ ] Before anything, you can enter the Bistro Black Hole (PS3 and Definitive Edition)
  - [ ] At the first area of the Union HQ, the Bunny Guild Leader shows up at the top left corner if you have 500 Title Points (each title has its respective point count). You can get Bunny Guild Badge and Female Bunny Ears with 500 Title Points. You can get more Attachment when you get more titles. You need at least 4000 Title Points to get everything. Make sure you come back when you have more titles (Bunny Guild)
 
 ## Keiv Moc
+![screenshot](images/act-one-023.jpg)
+
  - [ ] At the first intersection, go down to the left for Karol to learn Bug Breath (Bug Hater)
  - [ ] Go on to the left from where Karol learns Bug Breath (Old Man's Wisdom)
  - [ ] If you have done (King Of Adventure Part 2) and from Where Karol learns Bug Breath, go down further to fight the Giganto Green Menace (PS3 and Definitive Edition)
@@ -82,44 +84,62 @@ After Estelle joins back at the end:
  - [ ] After beating Giga Larva, back track to fight Don Whitehorse (99764 HP On Easy, 142520 HP On Normal, 356300 HP On Hard). He can drop Diamond if you do beat him (PS3 and Definitive Edition)
 
 ## Dahngrest
- - [ ] After Rita and Repede join back the party, enter the western bar and Raven will join the party. You will be in the Underground Waterway Of Oath (PS3 and Definitive Edition)
+![screenshot](images/act-one-027.jpg)
+
+ - [ ] After Rita and Repede join back the party, enter the western bar and Raven will join the party. You will be in the Sewer Tunnels of Promise (PS3 and Definitive Edition)
 
 ## Ghasfarost
+![screenshot](images/act-one-028.jpg)
+
  - [ ] When you reunite with everyone, Flynn also joins the party temporarily (PS3 and Definitive Edition)
 
 # Act Two
 
 ## Dahngrest
+![screenshot](images/act-two-029.jpg)
+
  - [ ] After exiting out Dahngrest, quickly enter back to find Duke (Duke Part 3)
  - [ ] After Judith and Estelle join back the party, go to Ghasfarost and check the east room on the first floor (Brionac Part 2)
 
 ## Capua Torim
+![screenshot](images/act-two-031.jpg)
+
  - [ ] At the right of the Fortune's Market HQ, speak with the female by the tree (The Dragoon Part 1)
 
 ## After Getting the Ship
+![screenshot](images/act-two-032.jpg)
+
  - [ ] In Capua Nor, sleep at the Inn to see Karol's Dream (PS3 and Definitive Edition)
  - [ ] At the north of Halure or west of Aspio, you can find the travelers' inn King Of Adventure. Talk to Rich if you have beaten Green Menace. Rest for more talk with Rich (King Of Adventure Part 3) (PS3 and Definitive Edition)
  - [ ] At the north of Halure or west of Aspio, you can find the travelers' inn King Of Adventure. Rest to meet with Rich and make sure this is done BEFORE killing any upcoming Giganto Monster (King Of Adventure Part 2)
  - [ ] In Halure, talk to the kids under the tree to get the attachment Veil (Under The Tree Part 2)
- - [ ] In Halure, talk to Sicily before the Inn for Raven to learn Arrive Derci (Professor Sicily Part 1)
- - [ ] In Deidon Hold, arrange the Warehouse for Miracle Gel, Limits Bottle, Strong Wine and 2000 Gald as the reward (Tidy Up The Warehouse Part 1)
+ - [ ] In Halure, talk to Sicily before the Inn for Raven to learn Arrivederci (Professor Sicily Part 1)
+ - [ ] In Deidon Hold, arrange the Warehouse for Miracle Gel, Limits Bottle, Spicy Bottle and 2000 Gald as the reward (Tidy Up The Warehouse Part 1)
  - [ ] In Zaphias, talk to an Old Woman at the Lower Quarter. Go north to find Estelle and Rita. Go to the Nobles Quarter to find Estelle and Rita again (PS3 and Definitive Edition)
  - [ ] In Zaphias, head toward the Nobles Quarter. Go on to the west to talk to Sher again. Back track to the previous area and talk to Lune who is sitting on a bench. Yuri will learn Tiger Blade and the Kingdom Celeb title (Dark Enforcer Part 2)
- - [ ] In Capua Nor, go west and find Sicily for Raven to learn the Vacanza skill and his Twilight Dreamer title (Professor Sicily Part 2)
+ - [ ] In Capua Nor, go west and find Sicily for Raven to learn the Vacance skill and his Twilight Dreamer title (Professor Sicily Part 2)
  - [ ] In Capua Torim, arrange the Warehouse for Power Light, Golden Horn, Lottery Gel and 2000 Gald as the reward (Tidy Up The Warehouse Part 2)
 
 ## Ocean
- - [ ] Sail toward the west from Capua Nor/Torim. You will meet with Patty after fighting the Predent (PS3 and Definitive Edition)
+![screenshot](images/act-two-042.jpg)
+
+ - [ ] Sail toward the west from Capua Nor/Torim. You will meet with Patty after fighting the Predafish (PS3 and Definitive Edition)
 
 ## Atherum
+![screenshot](images/act-two-044.jpg)
+
 - [ ] Patty will join the party temporarily when the game switches to the second party (PS3 and Definitive Edition)
-- [ ] When fighting Cifer The Wandering Skeleton, attack and knock it down while it reloads its revolver (Secret Mission 8, PS3 and Definitive Edition)
+- [ ] When fighting Cursed Wanderer, attack and knock it down while it reloads its revolver (Secret Mission 8, PS3 and Definitive Edition)
 
 ## Capua Nor
+![screenshot](images/act-two-045.jpg)
+
 - [ ] Check the back alley near the shop to find Dedecchi (PS3 and Definitive Edition)
 - [ ] Talk to the Woman by the Inn for the Seafood Bowl recipe. The dialogue differs if you have done (Yuri And The Chevaliers) (Seafood Bowl Recipe)
 
 ## Capua Torim
+![screenshot](images/act-two-047.jpg)
+
 - [ ] Go toward the Harbor to get the Marking Map and Repede's Fated One title. In Zaphias, talk to a dog at the right side of the shop to get the Friendly Fur Ball. Upon 50% completion of the Dog Map, a scene will trigger automatically (Dog Map Part 1)
 
 ## Nordopolica
@@ -261,7 +281,7 @@ After Estelle joins back at the end:
 - [ ] Before you go on any further, make sure you have at least completed 50% of the Collector Book. Walk up the stairs in the west house in Aspio. Later, when you have completed 100% of the Collector Book, head toward the fountain at the west in Halure. You will get Limits Bottle and Estelle's Item Mania title. Make sure you at least activate the part in Aspio NOW because you are JUST before the deadline (Collector Book Final Part)
 
 ## After Capua Nor
-- [ ] When Patty goes off at nighttime, follow her to the west and toward the port behind the mansion. Get on the boat to the Atherum. Go up to the deck and when fighting Cifer The Wandering Skeleton, use the *Beautiful Star* (Maris Stella) (Secret Mission 20, PS3 and Definitive Edition)
+- [ ] When Patty goes off at nighttime, follow her to the west and toward the port behind the mansion. Get on the boat to the Atherum. Go up to the deck and when fighting Cursed Wanderer, use the *Beautiful Star* (Maris Stella) (Secret Mission 20, PS3 and Definitive Edition)
 - [ ] Fly toward Zaphias and head inside. Head down toward the Fountain from the north. After, head toward the Castle. In the PS3 and Definitive Edition, enter the Citizen Quarter then toward the Castle (Future Of Blastia)
 - [ ] In Zaphias, sleep in Yuri's Room. Rita gets Imperial Princess' Close Friend title and Estelle gets Genius Mage's Close Friend title (PS3 and Definitive Edition)
 - [ ] In Zaphias, enter Estelle's Room in the Castle to hear about the Telescopic Graveyard. Go to the last area in Zaude and you will be able to enter the Telescopic Graveyard. At the first layer, *Soten Layer* Azure Sky Layer, you can find Flynn's Fell Weapon Seven-Branched Blade at the NW of the 8F. At the second layer, *Current Generation* Current Life Layer, you can find Patty's Fell Weapon Corbis at the SE of 9F. After beating Ohma, you won't be able to advance further until you have beaten the game (PS3 and Definitive Edition)

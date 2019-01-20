@@ -1,14 +1,16 @@
 # Recipes Checklist for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 19 January 2019
+- Last updated: 20 January 2019
 - Source: [How to Unlock All Cooking Recipes](https://steamcommunity.com/sharedfiles/filedetails/?id=1621018067)
 
 ## Quick Glance
 I'm approaching this checklist guide by sorting the characters who can unlock new recipes after cooking certain recipes repeatedly.
 
-For the likes/disklikes and benefit, please refer to the source.
+For the likes/dislikes and benefit, please refer to the source.
 
 The Wonder Chef list will can be found at the bottom of the guide.
+
+> _Just in case, keep cooking repeatedly if you're feeling like it is not unlocking the recipe..._
 
 ## Characters
 

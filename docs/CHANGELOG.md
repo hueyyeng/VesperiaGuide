@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.7 (2019-01-20)
+- Minor names update of characters and items based on official English translation.
+- Add emphasis for a missable event in __Ehmead Hill__.
+
 ## 0.0.6 (2019-01-19)
 - Add Recipes Checklist.
 - Replace `PS3 Version` with `PS3 and Definitive Edition`.
