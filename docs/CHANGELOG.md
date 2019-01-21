@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.8(2019-01-22)
+- Update `index.md` with links to checklists and warning description.
+
 ## 0.0.7 (2019-01-20)
 - Minor names update of characters and items based on official English translation.
 - Add emphasis for a missable event in __Ehmead Hill__.
