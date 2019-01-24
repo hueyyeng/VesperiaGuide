@@ -1,6 +1,6 @@
 # Kouli's Guide for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 20 January 2019
+- Last updated: 25 January 2019
 - Source: [Kouli's Guide -Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 ### TODO:
@@ -143,6 +143,8 @@ After Estelle joins back at the end:
 - [ ] Go toward the Harbor to get the Marking Map and Repede's Fated One title. In Zaphias, talk to a dog at the right side of the shop to get the Friendly Fur Ball. Upon 50% completion of the Dog Map, a scene will trigger automatically (Dog Map Part 1)
 
 ## Nordopolica
+![screenshot](images/act-two-050.jpg)
+
 - [ ] Speak with the fish seller (The Dragoon Part 2)
 - [ ] Find Drake on the way to the north (Estelle's Teacher Part 2)
 - [ ] After talking to Natts, go toward the Harbor to meet with Patty (PS3 and Definitive Edition)
@@ -150,30 +152,40 @@ After Estelle joins back at the end:
 - [ ] After resting at the inn and Raven joins back the party, talk to the couple at the southern part of the town. Rest at the Inn for Yuri to learn Shining Eagle (Dark Enforcer Part 3)
 
 ## Weasand Of Cados
+![screenshot](images/act-two-053.jpg)
+
 - [ ] At the second area, Patty joins the party temporarily (PS3 and Definitive Edition)
 - [ ] Afterward, enter back and head toward the Aer Krene to find Duke (Duke Part 5)
 
 ## Mantaic
+![screenshot](images/act-two-055.jpg)
+
 - [ ] Find Wonder Reporter near the tree by the middle intersection (Wonder Reporter Final Part)
 - [ ] Before resting at the Inn, you can find Patty at NE (PS3 and Definitive Edition)
-- [ ] After resting the Inn, rest for Judith to learn Moonlight Talon (Moonlight Talon)
-- [ ] After resting the Inn, rest to get Mother's Memento (Estelle's Precious Thing)
+- [ ] After resting at the Inn, rest for Judith to learn Moonlight Talon (Moonlight Talon)
+- [ ] After resting at the Inn, rest to get Mother's Memento (Estelle's Precious Thing)
 
 ## Sands Of Kogorh
+![screenshot](images/act-two-059.jpg)
+
 - [ ] At the third area, Patty joins the party PERMANENTLY (PS3 and Definitive Edition)
 
-## Mantaic
-- [ ] After Yormgen, speak with the kids at NE for Hourglass, Miracle Gel or Mix Gel (Reward For Helping Others)
+## Revisiting Mantaic after Yormgen
+![screenshot](images/act-two-060.jpg)
+
+- [ ] Speak with the kids at NE for Hourglass, Miracle Gel or Mix Gel (Reward For Helping Others)
 - [ ] After the event with Flynn by the lake, reenter Mantaic and take the right path near the Inn to speak with the Cow Boy. Hand over Apple Gel for Milk (Cow Boy Part 1)
 
-## Nordopolica
-- [ ] Afterward, return to Heliord and talk to the two near the eastern entrance/exit. Patty will learn Search Gald and obtain the Gald Searcher title (PS3 and Definitive Edition)
-- [ ] Afterward, return to Zaphias and head into Yuri's Room to get Bread from Ted (Yuri's Downtown Life)
+## After Nordopolica Events
+![screenshot](images/act-two-062.jpg)
+
+- [ ] Return to Heliord and talk to the two near the eastern entrance/exit. Patty will learn Search Gald and obtain the Gald Searcher title (PS3 and Definitive Edition)
+- [ ] Return to Zaphias and head into Yuri's Room to get Bread from Ted (Yuri's Downtown Life)
 
 ## After the Death Of Don
 - [ ] In Dahngrest, enter the western bar and you will get the Royal Family's Crest from Drake (Estelle's Teacher Part 3)
 - [ ] In Dahngrest, sleep at the Inn for Karol's Insomniac title (Sleepless Night)
-- [ ] In Dahngrest, sleep at the Inn and there is a 100% chance that you will get a scene. Repeat this for four scenes in total. Karol will learn the Special skill which enables him to use HiOugi (Hard Working Boy)
+- [ ] In Dahngrest, sleep at the Inn and there is a 100% chance that you will get a scene. Repeat this for four scenes in total. Karol will learn the Special skill which enables him to use Mystic Artes (Hard Working Boy)
 - [ ] Enter the Shaikos Ruins (Truth Of Ruin's Gate Part 1)
 
 ## After Getting Baul
@@ -192,7 +204,7 @@ After Estelle joins back at the end:
 - [ ] In Capua Torim, toward the right of the Fortune's Market HQ. Speak with the Female by the tree (The Dragoon Final Part)
 - [ ] In Capua Torim, speak with Kaufman in the Fortune's Market HQ. Go to Dahngrest and enter the right shop to speak with the Owner (Brionac Part 3)
 - [ ] In Dahngrest, enter the western bar. Exit out and talk to the Girl that is at the center of the town. Enter the eastern bar and talk to another Girl. Head toward the Union HQ to get Raven's Ladies' Man title (Ladies' Man)
-- [ ] In Dahngrest, sleep at the Inn and there is a 33% chance that you will get a scene. Repeat this for four scenes in total. Karol will learn the Special skill which enables him to use HiOugi (Hard Working Boy)
+- [ ] In Dahngrest, sleep at the Inn and there is a 33% chance that you will get a scene. Repeat this for four scenes in total. Karol will learn the Special skill which enables him to use Mystic Artes (Hard Working Boy)
 - [ ] In Dahngrest, enter the western bar and talk to Sassoon at the upper left corner. You can get various Attachment/Title based on what you have. Be sure to check out with her frequently (PS3 and Definitive Edition)
 - [ ] In Dahngrest, go to the Union HQ and go find Kaufman in the Fortune's Market in Capua Torim (Rebuilding The Union Part 1)
 - [ ] In Dahngrest, enter the western bar and speak with the right Bartender. Go to the Inn to speak with Lianna. Exit out and go toward the lower right bridge. Go to Heliord and head down to the lower section to talk to a Girl. Trade Tiny Bird Feather for the Ever Light Necklace. Report back to Lianna at the Inn of Dahngrest (Guild Quest Part 2)
@@ -232,7 +244,7 @@ After Estelle joins back at the end:
 - [ ] In Capua Torim, toward the port to get the ship modified with Salvage Crane. It works automatically while sailing the sea (Professor Sicily Part 3)
 - [ ] In Capua Torim, speak with the Old Man to the right of the western stairs. You need seven kinds of Food Materials but you can buy them all. For the Pointed Carver, you need *Sharp Blade* Pointed Edge and *Freestone* Flare Stone. Go to the western bar in Dahngrest, talk to the right Bartender for the Pointed Carver. Report back to the Old Man for the Fisherman Pot recipe (PS3 and Definitive Edition)
 - [ ] Once you have obtained the Salvage Crane, go to Capua Nor and go west. Pick first choice and exit out. At the NW of Zaude, there is a Harvest Point. Sail to it and check for a scene (PS3)
-- [ ] In Heliord, speak with Pauly near the Blastia. Go east and defeat the enemies for Repede's Special skill which enables HiOugi and Repede's Nanny title (Children Lover)
+- [ ] In Heliord, speak with Pauly near the Blastia. Go east and defeat the enemies for Repede's Special skill which enables Mystic Artes and Repede's Nanny title (Children Lover)
 - [ ] In Dahngrest, head toward the Inn. Flynn gets the Emperor Of The Nightlife title (PS3 and Definitive Edition)
 
 ## Zaude
@@ -300,7 +312,7 @@ After Estelle joins back at the end:
 - [ ] In Namcot Island, head in the Gym and speak with the Woman near the Stage to get the Drama Series titles, Estelle's Warrior's Sword and Shield (Drama Lovers)
 
 ## VS Flynn
-- [ ] Flynn uses various abilities ~~(there was a lot of Japanese here and the translation made zero sense)~~ and his HiOugi *Light Dragon Boiling Spear* (PS3 and Definitive Edition)
+- [ ] Flynn uses various abilities ~~(there was a lot of Japanese here and the translation made zero sense)~~ and his Mystic Artes *Light Dragon Boiling Spear* (PS3 and Definitive Edition)
 
 Here's the list of abilities (thanks to __Massicot__ from ResetEra!):
 
@@ -385,8 +397,8 @@ ___After the above, you may save the game___
 - [ ] In Developed Aurnion, arrange the Warehouse for Special Gel, Strange Piece, Spring Of Knowledge, 2000 Gald and Karol's Warehouse Master title (Tidy Up The Warehouse Final Part)
 - [ ] Use the Left Lift at the end to get out of Tarqaron. In Zaphias, speak with Ted near the Fountain for Yuri's Claimh Solais. Yuri will get Half Hope Of The Town title and in PS3 and Definitive Edition, Flynn will also get Half Hope Of The Town title (Hope Of The Town)
 
-### Combination HiOugi
-> After (Hope Of The Town), Yuri and Flynn can now do their Combination HiOugi, Bushin Soutenha. Yuri has to at least used 蒼破刃 Souhajin and 守護方陣 Shugo Houjin 200 times each. Flynn has to at least used 魔神剣 Majinken and 守護方陣 Shugo Houjin 200 times each. During battle, make sure both Yuri and Flynn are in OVL 4. Either Yuri or Flynn uses an Ougi or above then press and hold Square, X and Circle. The difficult part is to get both Yuri and Flynn be in OVL 4.
+### Combination Mystic Artes
+> After (Hope Of The Town), Yuri and Flynn can now do their Combination Mystic Artes, Bushin Soutenha. Yuri has to at least used 蒼破刃 Souhajin and 守護方陣 Shugo Houjin 200 times each. Flynn has to at least used 魔神剣 Majinken and 守護方陣 Shugo Houjin 200 times each. During battle, make sure both Yuri and Flynn are in OVL 4. Either Yuri or Flynn uses an Ougi or above then press and hold Square, X and Circle. The difficult part is to get both Yuri and Flynn be in OVL 4.
 
 There are few ways to do so:
 
@@ -403,5 +415,5 @@ There are few ways to do so:
 - [ ] In Yuumanju, equip everyone with the Hotspring Series titles and speak with the Receptionist (Hotspring Final Part)
 - [ ] Sleep at any Inn then talk to the Receptionist in Yuumanju. Repeat for Flynn's Spike Armor attachment, Judith's Glamorous Beauty title and Karol's Black Tights title (PS3 and Definitive Edition)
 - [ ] Visit every location on the World Map including the Aer Krenes and the Extra Dungeon (In the PS3 and Definitive Edition, there is also the NEW Extra Dungeon Telescopic Graveyard). Sleep at the King Of Adventure to get Estelle's Curious Princess title (Curious Princess)
-- [ ] Once you have seen all 12 Friends of Patty's HiOugi Summon Friends, enter Nordopolica and head toward the north. On the way, you will see Gim on the stairs. Talk to him and Patty will obtain the Successor Of The Great Pirate's Name title (PS3 and Definitive Edition)
+- [ ] Once you have seen all 12 Friends of Patty's Mystic Artes Summon Friends, enter Nordopolica and head toward the north. On the way, you will see Gim on the stairs. Talk to him and Patty will obtain the Successor Of The Great Pirate's Name title (PS3 and Definitive Edition)
 - [ ] You can now go down further in the Telescopic Graveyard (PS3 and Definitive Edition)

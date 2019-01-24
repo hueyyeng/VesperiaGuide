@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.0.8(2019-01-22)
+## 0.0.9 (2019-01-25)
+- Replace `HiOugi` with `Mystic Artes`.
+- Minor grammar fix.
+
+## 0.0.8 (2019-01-22)
 - Update `index.md` with links to checklists and warning description.
 
 ## 0.0.7 (2019-01-20)
