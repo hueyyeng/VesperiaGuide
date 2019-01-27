@@ -1,6 +1,6 @@
 # Kouli's Guide for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 25 January 2019
+- Last updated: 27 January 2019
 - Source: [Kouli's Guide -Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 ### TODO:
@@ -183,12 +183,16 @@ After Estelle joins back at the end:
 - [ ] Return to Zaphias and head into Yuri's Room to get Bread from Ted (Yuri's Downtown Life)
 
 ## After the Death Of Don
+![screenshot](images/act-two-065.jpg)
+
 - [ ] In Dahngrest, enter the western bar and you will get the Royal Family's Crest from Drake (Estelle's Teacher Part 3)
 - [ ] In Dahngrest, sleep at the Inn for Karol's Insomniac title (Sleepless Night)
 - [ ] In Dahngrest, sleep at the Inn and there is a 100% chance that you will get a scene. Repeat this for four scenes in total. Karol will learn the Special skill which enables him to use Mystic Artes (Hard Working Boy)
 - [ ] Enter the Shaikos Ruins (Truth Of Ruin's Gate Part 1)
 
 ## After Getting Baul
+![screenshot](images/act-two-074.jpg)
+
 - [ ] In Mantaic, go north to find the Dispatcher. Talk to Yuu near the Inn to get Book of the Proof of Friendship and Crest of Friendship. Go to the Inn in Capua Torim to get Rainbow Bookmark. Report back to Yuu in Mantaic for 3000 Gald (Guild Quest Part 1)
 - [ ] If you have done (Bug Hater), go to Mantaic to rest at the Inn and pick Yes (Portrait Of Nan)
 - [ ] In Mantaic, hand over Trident for Rice, Potato, Onion and Carrot (Cow Boy Part 2)
@@ -203,17 +207,21 @@ After Estelle joins back at the end:
 - [ ] In Capua Nor, you can find Nan if you have completed 50% of the Monster Book (Monster Book Part 1)
 - [ ] In Capua Torim, toward the right of the Fortune's Market HQ. Speak with the Female by the tree (The Dragoon Final Part)
 - [ ] In Capua Torim, speak with Kaufman in the Fortune's Market HQ. Go to Dahngrest and enter the right shop to speak with the Owner (Brionac Part 3)
+- [ ] In Dahngrest, ___if you haven't done it___, sleep at the Inn and there is a 33% chance that you will get a scene. Repeat this for four scenes in total. Karol will learn the Special skill which enables him to use Mystic Artes (Hard Working Boy)
 - [ ] In Dahngrest, enter the western bar. Exit out and talk to the Girl that is at the center of the town. Enter the eastern bar and talk to another Girl. Head toward the Union HQ to get Raven's Ladies' Man title (Ladies' Man)
-- [ ] In Dahngrest, sleep at the Inn and there is a 33% chance that you will get a scene. Repeat this for four scenes in total. Karol will learn the Special skill which enables him to use Mystic Artes (Hard Working Boy)
 - [ ] In Dahngrest, enter the western bar and talk to Sassoon at the upper left corner. You can get various Attachment/Title based on what you have. Be sure to check out with her frequently (PS3 and Definitive Edition)
 - [ ] In Dahngrest, go to the Union HQ and go find Kaufman in the Fortune's Market in Capua Torim (Rebuilding The Union Part 1)
 - [ ] In Dahngrest, enter the western bar and speak with the right Bartender. Go to the Inn to speak with Lianna. Exit out and go toward the lower right bridge. Go to Heliord and head down to the lower section to talk to a Girl. Trade Tiny Bird Feather for the Ever Light Necklace. Report back to Lianna at the Inn of Dahngrest (Guild Quest Part 2)
 - [ ] In Dahngrest, enter the western bar and speak with the middle Bartender. Clear all three levels with everyone except Yuri, Patty and Repede for the Waiter/Waitress series titles. When you play the Waiter/Waitress Game at latter part of the game, you can win more Gald (Waiter/Waitress Game)
 
-## Aspio
-- [ ] To get the Guidepost Of Myorzo, you need to go to the Lenansla Cavern (PS3 and Definitive Edition)
+## After Meeting Phaeroh
+![screenshot](images/act-two-087.jpg)
 
-## Lenansla Cavern
+- [ ] To get the Guidepost Of Myorzo, you need to go to Renansula Hollow after revisiting Aspio (PS3 and Definitive Edition)
+
+## Renansula Hollow
+![screenshot](images/act-two-088.jpg)
+
 - [ ] Around the middle of the Hypionia Continent, look for a beach with red flowers (PS3 and Definitive Edition)
 
 ## Myorzo
@@ -385,7 +393,7 @@ ___After the above, you may save the game___
 - [ ] After (Guild Quest Part 7), go toward the tree in Halure to get Rita's Ivy Blade (Spirit Magic Final Part)
 - [ ] In Mantaic, hand over Silver Edge + 1 Alpha to Cow Boy for Spectacles, Krona Symbol, Blue Dice, Reverse Doll, Holy Avenger, Super Electric Yoyo, Dragon Helm, Paladin Mantle, Black Onyx, Special Gel, Red Sage, Hourglass, Alexandrite and Reverse Doll (Cow Boy Final Part)
 - [ ] Repeatedly use any tent item on the World Map for Flynn to learn Kouha Senshoujin (PS3 and Definitive Edition)
-- [ ] In the Lenansla Cavern, head toward the Graveyard (PS3 and Definitive Edition)
+- [ ] In the Renansula Hollow, head toward the Graveyard (PS3 and Definitive Edition)
 - [ ] Enter Relewiese Hollow for a scene with Sylph (PS3 and Definitive Edition)
 - [ ] Enter Capua Nor and talk to Hisuka. Shastil will then show up. They are Senior Knights from the ToV Movie. Anyway, they are looking for the Sword Of Prayer which is a Treasure of the Chevaliers that got stolen by Alexei. Enter the Aer Krene that is at the SE of Weasand Of Cados. Within, go north to get to the Deep Hollow Region. At the end, get near the center to fight Sword Dancer. Exit out and enter the Aer Krene at the south of Zaphias. At the end, get near the center to fight Sword Dancer. Exit out and enter the Aer Krene at the north of Caer Bocram. At the end, there won't be a battle, so exit out and head to the last Aer Krene which is at the southeast of Yuumanju. At the end, you will fight Sword Dancer one last time. Back track out to meet with Hisuka and Shastil. They will give the Sword Of Prayer Lag Quarion to Flynn (PS3 and Definitive Edition)
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.0.10 (2019-01-27)
+- Replace `Lenasla Cavern` with `Renansula Hollow`.
+- Fix broken link to GitHubPages in `README.md`.
+- Add remarks on acquiring Karol's Special skill.
+- Minor cleanup.
+
 ## 0.0.9 (2019-01-25)
 - Replace `HiOugi` with `Mystic Artes`.
 - Minor grammar fix.
