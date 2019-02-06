@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.11 (2019-02-06)
+- Various name updates to official English translation.
+- Various Engrish grammar fix.
+- Add remarks on certain missables from playtesting.
+
 ## 0.0.10 (2019-01-27)
 - Replace `Lenasla Cavern` with `Renansula Hollow`.
 - Fix broken link to GitHubPages in `README.md`.

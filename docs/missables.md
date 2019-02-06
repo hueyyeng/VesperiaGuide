@@ -1,20 +1,19 @@
 # Kouli's Guide for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 27 January 2019
-- Source: [Kouli's Guide -Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
+- Last updated: 6 February 2019
+- Source: [Kouli's Guide - Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 ### TODO:
 - Replace Japanese names with official English names in Definitive Edition.
 - Insert screenshots/video links.
-- Update ___CSS___ theme.
 
 # Act One
 
 ## Zaphias
- - [ ] Automatically obtains Wonder Log (Wonder Reporter Part 1)
+ - [ ] Automatically obtains __Wonder Log__ (Wonder Reporter Part 1)
 
 ## World Map
- - [ ] Near Zaphias, you can find the travelers' inn King Of Adventure (King Of Adventure Part 1)
+ - [ ] Near Zaphias, you can find the travelers' inn, __King Of Adventure__ (King Of Adventure Part 1)
 
 ## Deidon Hold
 ![screenshot](images/act-one-003.jpg)
@@ -24,13 +23,13 @@
 ## After Karol joins the Party
 ![screenshot](images/act-one-004.jpg)
 
- - [ ] With Karol in the party, go to the travelers' inn King Of Adventure. Rest to meet with Rich and make sure this is done ***BEFORE*** killing any upcoming Giganto Monster (King Of Adventure Part 2)
+ - [ ] With Karol in the party, go to the travelers' inn King Of Adventure. Rest to meet with Rich and make sure this is done ___BEFORE___ killing any upcoming Giganto Monster (King Of Adventure Part 2)
 
 ## Aspio
 ![screenshot](images/act-one-005.jpg)
 
- - [ ] After Rita joins the party, check the second floor of Rita's House for Collector Book (Collector Book Part 1)
- - [ ] After Shaikos Ruins and with Rita in the party, check a Blastia in Rita's House to name it Victoria. This should be done no later than after getting the Golden Horn in the main story (Brionac Part 1)
+ - [ ] After Rita joins the party, check the second floor of Rita's House for __Collector's Book__ (Collector's Book Part 1)
+ - [ ] After Shaikos Ruins and with Rita in the party, check a Blastia in Rita's House to name it Victoria. ___This should be done before getting the Golden Horn in the main story___ (Brionac Part 1)
 
 ## Ehmead Hill
 ![screenshot](images/act-one-008.jpg)
@@ -48,7 +47,6 @@
 
 ## Capua Torim
 ![screenshot](images/act-one-013.jpg)
-
 
  - [ ] Afterward, sleep at the Inn (Dark Enforcer Part 1)
 
@@ -77,11 +75,11 @@ After Estelle joins back at the end:
 ## Keiv Moc
 ![screenshot](images/act-one-023.jpg)
 
- - [ ] At the first intersection, go down to the left for Karol to learn Bug Breath (Bug Hater)
+ - [ ] At the first intersection, go down to the left for Karol to learn __Bug Breath__ (Bug Hater)
  - [ ] Go on to the left from where Karol learns Bug Breath (Old Man's Wisdom)
- - [ ] If you have done (King Of Adventure Part 2) and from Where Karol learns Bug Breath, go down further to fight the Giganto Green Menace (PS3 and Definitive Edition)
- - [ ] In the second area, you will meet with Patty (PS3 and Definitive Edition)
- - [ ] After beating Giga Larva, back track to fight Don Whitehorse (99764 HP On Easy, 142520 HP On Normal, 356300 HP On Hard). He can drop Diamond if you do beat him (PS3 and Definitive Edition)
+ - [ ] If you have done (King Of Adventure Part 2) and from Where Karol learns Bug Breath, go down further to fight the Giganto __Green Menace__ (PS3 and Definitive Edition)
+ - [ ] In the second area, you will meet Patty (PS3 and Definitive Edition)
+ - [ ] After beating Giga Larva, back track to fight Don Whitehorse (99764 HP On Easy, 142520 HP On Normal, 356300 HP On Hard). He can drop Diamond if you do beat him... ___in your next New Game EX playthrough___ (PS3 and Definitive Edition)
 
 ## Dahngrest
 ![screenshot](images/act-one-027.jpg)
@@ -111,13 +109,13 @@ After Estelle joins back at the end:
 
  - [ ] In Capua Nor, sleep at the Inn to see Karol's Dream (PS3 and Definitive Edition)
  - [ ] At the north of Halure or west of Aspio, you can find the travelers' inn King Of Adventure. Talk to Rich if you have beaten Green Menace. Rest for more talk with Rich (King Of Adventure Part 3) (PS3 and Definitive Edition)
- - [ ] At the north of Halure or west of Aspio, you can find the travelers' inn King Of Adventure. Rest to meet with Rich and make sure this is done BEFORE killing any upcoming Giganto Monster (King Of Adventure Part 2)
- - [ ] In Halure, talk to the kids under the tree to get the attachment Veil (Under The Tree Part 2)
- - [ ] In Halure, talk to Sicily before the Inn for Raven to learn Arrivederci (Professor Sicily Part 1)
+ - [ ] At the north of Halure or west of Aspio, you can find the travelers' inn King Of Adventure. Rest to meet with Rich and make sure this is done ___BEFORE___ killing any upcoming Giganto Monster (King Of Adventure Part 2)
+ - [ ] In Halure, talk to the kids under the tree to get the attachment __Veil__ (Under The Tree Part 2)
+ - [ ] In Halure, talk to Sicily before the Inn for Raven to learn __Arrivederci__ (Professor Sicily Part 1)
  - [ ] In Deidon Hold, arrange the Warehouse for Miracle Gel, Limits Bottle, Spicy Bottle and 2000 Gald as the reward (Tidy Up The Warehouse Part 1)
  - [ ] In Zaphias, talk to an Old Woman at the Lower Quarter. Go north to find Estelle and Rita. Go to the Nobles Quarter to find Estelle and Rita again (PS3 and Definitive Edition)
- - [ ] In Zaphias, head toward the Nobles Quarter. Go on to the west to talk to Sher again. Back track to the previous area and talk to Lune who is sitting on a bench. Yuri will learn Tiger Blade and the Kingdom Celeb title (Dark Enforcer Part 2)
- - [ ] In Capua Nor, go west and find Sicily for Raven to learn the Vacance skill and his Twilight Dreamer title (Professor Sicily Part 2)
+ - [ ] In Zaphias, head toward the Nobles Quarter. Go on to the west to talk to Sher again. Back track to the previous area and talk to Lune who is sitting on a bench. Yuri will learn __Tiger Blade__ and the __Kingdom Celeb__ title (Dark Enforcer Part 2)
+ - [ ] In Capua Nor, go west and find Sicily for Raven to learn the __Vacance__ skill and his __Twilight Dreamer__ title (Professor Sicily Part 2)
  - [ ] In Capua Torim, arrange the Warehouse for Power Light, Golden Horn, Lottery Gel and 2000 Gald as the reward (Tidy Up The Warehouse Part 2)
 
 ## Ocean
@@ -135,12 +133,12 @@ After Estelle joins back at the end:
 ![screenshot](images/act-two-045.jpg)
 
 - [ ] Check the back alley near the shop to find Dedecchi (PS3 and Definitive Edition)
-- [ ] Talk to the Woman by the Inn for the Seafood Bowl recipe. The dialogue differs if you have done (Yuri And The Chevaliers) (Seafood Bowl Recipe)
+- [ ] Talk to the Woman by the Inn for the __Seafood Bowl__ recipe. The dialogue differs if you have done (Yuri And The Chevaliers) (Seafood Bowl Recipe)
 
 ## Capua Torim
 ![screenshot](images/act-two-047.jpg)
 
-- [ ] Go toward the Harbor to get the Marking Map and Repede's Fated One title. In Zaphias, talk to a dog at the right side of the shop to get the Friendly Fur Ball. Upon 50% completion of the Dog Map, a scene will trigger automatically (Dog Map Part 1)
+- [ ] Go toward the Harbor to get the __Marking Map__ and Repede's __Fated One__ title. In Zaphias, talk to a dog at the right side of the shop to get the __Friendship Fur Ball__. Upon 50% completion of the Dog Map, a scene will trigger automatically on the world map (Dog Map Part 1)
 
 ## Nordopolica
 ![screenshot](images/act-two-050.jpg)
@@ -149,7 +147,7 @@ After Estelle joins back at the end:
 - [ ] Find Drake on the way to the north (Estelle's Teacher Part 2)
 - [ ] After talking to Natts, go toward the Harbor to meet with Patty (PS3 and Definitive Edition)
 - [ ] After resting at the inn and Raven joins back the party, you can find Duke at the reception area of the arena (Duke Part 4)
-- [ ] After resting at the inn and Raven joins back the party, talk to the couple at the southern part of the town. Rest at the Inn for Yuri to learn Shining Eagle (Dark Enforcer Part 3)
+- [ ] After resting at the inn and Raven joins back the party, talk to the couple at the southern part of the town. Rest at the Inn for Yuri to learn __Shining Eagle__ (Dark Enforcer Part 3)
 
 ## Weasand Of Cados
 ![screenshot](images/act-two-053.jpg)
@@ -163,12 +161,12 @@ After Estelle joins back at the end:
 - [ ] Find Wonder Reporter near the tree by the middle intersection (Wonder Reporter Final Part)
 - [ ] Before resting at the Inn, you can find Patty at NE (PS3 and Definitive Edition)
 - [ ] After resting at the Inn, rest for Judith to learn Moonlight Talon (Moonlight Talon)
-- [ ] After resting at the Inn, rest to get Mother's Memento (Estelle's Precious Thing)
+- [ ] After resting at the Inn, rest to get __Mother's Memento__ aka ___don't miss out on this or forfeit the chance complete a later Secret Mission for the entire playthrough___ (Estelle's Precious Thing)
 
 ## Sands Of Kogorh
 ![screenshot](images/act-two-059.jpg)
 
-- [ ] At the third area, Patty joins the party PERMANENTLY (PS3 and Definitive Edition)
+- [ ] At the third area, __Patty joins the party PERMANENTLY__ (PS3 and Definitive Edition)
 
 ## Revisiting Mantaic after Yormgen
 ![screenshot](images/act-two-060.jpg)
@@ -179,45 +177,45 @@ After Estelle joins back at the end:
 ## After Nordopolica Events
 ![screenshot](images/act-two-062.jpg)
 
-- [ ] Return to Heliord and talk to the two near the eastern entrance/exit. Patty will learn Search Gald and obtain the Gald Searcher title (PS3 and Definitive Edition)
-- [ ] Return to Zaphias and head into Yuri's Room to get Bread from Ted (Yuri's Downtown Life)
+- [ ] Return to Heliord and talk to the two near the eastern entrance/exit. Patty will learn __Search Gald__ and obtain the __Gald Hunter__ title (PS3 and Definitive Edition)
+- [ ] Return to Zaphias and head into Yuri's Room to get __Bread__ from Ted (Yuri's Downtown Life)
 
 ## After the Death Of Don
 ![screenshot](images/act-two-065.jpg)
 
-- [ ] In Dahngrest, enter the western bar and you will get the Royal Family's Crest from Drake (Estelle's Teacher Part 3)
-- [ ] In Dahngrest, sleep at the Inn for Karol's Insomniac title (Sleepless Night)
+- [ ] In Dahngrest, enter the western bar and you will get the __Imperial Crest__ from Drake (Estelle's Teacher Part 3)
+- [ ] In Dahngrest, sleep at the Inn for Karol's __Insomniac__ title (Sleepless Night)
 - [ ] In Dahngrest, sleep at the Inn and there is a 100% chance that you will get a scene. Repeat this for four scenes in total. Karol will learn the Special skill which enables him to use Mystic Artes (Hard Working Boy)
 - [ ] Enter the Shaikos Ruins (Truth Of Ruin's Gate Part 1)
 
 ## After Getting Baul
 ![screenshot](images/act-two-074.jpg)
 
-- [ ] In Mantaic, go north to find the Dispatcher. Talk to Yuu near the Inn to get Book of the Proof of Friendship and Crest of Friendship. Go to the Inn in Capua Torim to get Rainbow Bookmark. Report back to Yuu in Mantaic for 3000 Gald (Guild Quest Part 1)
+- [ ] In Mantaic, go north to find the Dispatcher. Talk to Yu near the Inn to get __Book of Friendship__ and __Comrade Crest__. Go to the Inn in Capua Torim and speak to Nobis to get __Rainbow Bookmark__. Report back to Yu in Mantaic for 3000 Gald (Guild Quest Part 1)
 - [ ] If you have done (Bug Hater), go to Mantaic to rest at the Inn and pick Yes (Portrait Of Nan)
 - [ ] In Mantaic, hand over Trident for Rice, Potato, Onion and Carrot (Cow Boy Part 2)
 - [ ] In Mantaic, go north and speak with Clay. Sleep at the Inn and go north (Dark Enforcer Part 4)
-- [ ] In Nordopolica, toward the north (Truth Of Ruin's Gate Final Part)
-- [ ] In Nordopolica, head toward the Arena and speak with Natts (After The Death Of Belius)
+- [ ] In Nordopolica, head towards the entrance to the Colosseum (Truth Of Ruin's Gate Final Part)
+- [ ] In Nordopolica, head towards the Arena and speak with Natts (After The Death Of Belius)
 - [ ] In Nordopolica, the Arena is now open. Clear 30 Man, 50 Man and 80 Man Melee for now (Arena Part 1)
 - [ ] In Nordopolica, if you have cooked 600 times and Patty has three recipes MASTER, talk to the person to the right of the Shop (PS3 and Definitive Edition)
 - [ ] In Ehmead Hill, go toward the grave on the cliff to find Duke (Elucifer's Grave Final Part)
 - [ ] Enter Ehmead Hill from the western entrance/exit. Go north, east and north to get the Fire Lilly (Avenging Soldiers Part 1)
-- [ ] Enter Ehmead Hill from the eastern entrance/exit. Go toward the Blastia that is blocking the main road. Head to Aspio and check the bookshelf in the western house for Hermes Memo. Go to Capua Torim and rest at the Inn to learn Negative Gate. If you are to do this later in the game, you can get Hermes Memo from a Mage in the Inn of Capua Torim (Study Of Hermes Part 1)
-- [ ] In Capua Nor, you can find Nan if you have completed 50% of the Monster Book (Monster Book Part 1)
+- [ ] Enter Ehmead Hill from the eastern entrance/exit. Go toward the Blastia that is blocking the main road. Head to Aspio and check the bookshelf in the library for __Hermes' Notes__. Go to Capua Torim and rest at the Inn to learn Negative Gate. If you are to do this later in the game, you can get Hermes Memo from a Mage in the Inn of Capua Torim (Study Of Hermes Part 1)
+- [ ] In Capua Nor, you can find Nan if you have ___completed 50% of the Monster Book___ (Monster Book Part 1)
 - [ ] In Capua Torim, toward the right of the Fortune's Market HQ. Speak with the Female by the tree (The Dragoon Final Part)
 - [ ] In Capua Torim, speak with Kaufman in the Fortune's Market HQ. Go to Dahngrest and enter the right shop to speak with the Owner (Brionac Part 3)
 - [ ] In Dahngrest, ___if you haven't done it___, sleep at the Inn and there is a 33% chance that you will get a scene. Repeat this for four scenes in total. Karol will learn the Special skill which enables him to use Mystic Artes (Hard Working Boy)
-- [ ] In Dahngrest, enter the western bar. Exit out and talk to the Girl that is at the center of the town. Enter the eastern bar and talk to another Girl. Head toward the Union HQ to get Raven's Ladies' Man title (Ladies' Man)
+- [ ] In Dahngrest, enter the western bar. Exit out and talk to the Girl that is at the center of the town. Enter the eastern bar and talk to another Girl. Head toward the Union HQ to get Raven's __Ladies' Man__ title (Ladies' Man)
 - [ ] In Dahngrest, enter the western bar and talk to Sassoon at the upper left corner. You can get various Attachment/Title based on what you have. Be sure to check out with her frequently (PS3 and Definitive Edition)
 - [ ] In Dahngrest, go to the Union HQ and go find Kaufman in the Fortune's Market in Capua Torim (Rebuilding The Union Part 1)
-- [ ] In Dahngrest, enter the western bar and speak with the right Bartender. Go to the Inn to speak with Lianna. Exit out and go toward the lower right bridge. Go to Heliord and head down to the lower section to talk to a Girl. Trade Tiny Bird Feather for the Ever Light Necklace. Report back to Lianna at the Inn of Dahngrest (Guild Quest Part 2)
-- [ ] In Dahngrest, enter the western bar and speak with the middle Bartender. Clear all three levels with everyone except Yuri, Patty and Repede for the Waiter/Waitress series titles. When you play the Waiter/Waitress Game at latter part of the game, you can win more Gald (Waiter/Waitress Game)
+- [ ] In Dahngrest, enter the western bar and speak with the right Bartender. Go to the Inn to speak with Rhianna. Exit out and go toward the lower right bridge. Go to Heliord and head down to the lower section to talk to a Girl. Trade __Bird Feather (Small)__ for the __Everlight Necklace__. Report back to Rhianna at the Inn of Dahngrest (Guild Quest Part 2)
+- [ ] In Dahngrest, enter the western bar and speak with the middle Bartender. Clear all three levels with everyone except Yuri, Patty and Repede for the __Waiter/Waitress__ series titles. When you play the Waiter/Waitress Game at latter part of the game, you can win more Gald (Waiter/Waitress Game)
 
 ## After Meeting Phaeroh
 ![screenshot](images/act-two-087.jpg)
 
-- [ ] To get the Guidepost Of Myorzo, you need to go to Renansula Hollow after revisiting Aspio (PS3 and Definitive Edition)
+- [ ] To get the __Guide Bell to Myorzo__, you need to go to Renansula Hollow after revisiting Aspio and speak with Tort as Judith (PS3 and Definitive Edition)
 
 ## Renansula Hollow
 ![screenshot](images/act-two-088.jpg)
@@ -225,60 +223,79 @@ After Estelle joins back at the end:
 - [ ] Around the middle of the Hypionia Continent, look for a beach with red flowers (PS3 and Definitive Edition)
 
 ## Myorzo
+![screenshot](images/act-two-090.jpg)
+
 - [ ] Arrange the Warehouse for Hourglass, All Divide (Dragoon Boots In PS3 and Definitive Edition), Flare Stone, Freeze Stone, Aer Stone, Geo Stone and 2000 Gald as the reward (Tidy Up The Warehouse Part 3)
-- [ ] After Judith gets the Guardian Of Truth title, rest at the northeastern house (Entelexia)
+- [ ] After Judith gets the __Guardian Of Truth__ title, rest at the northeastern house (Entelexia)
 
 ## Yormgen
+![screenshot](images/act-two-091.jpg)
+
 - [ ] Flynn joins the party temporarily (PS3 and Definitive Edition)
 
 ## With Flynn in the Party
-- [ ] In Mantaic, go toward the west to get Flynn's Bearer Of Chivalry title (PS3 and Definitive Edition)
+![screenshot](images/act-two-092.jpg)
+
+- [ ] In Mantaic, go toward the west to get Flynn's __Mark of Knighthood__ title (PS3 and Definitive Edition)
 
 ## Baction
-- [ ] In the dark area, fall down three times to get Magic Lantern (Magic Lantern)
+![screenshot](images/act-two-093.jpg)
 
-## Deidon Hold
-- [ ] Before going to Zaphias for Estelle, find Duke on the roof of the Chevaliers' Station (Duke Part 6)
+- [ ] In the dark area, ___fall down three times___ to get __Magic Lantern__ (Magic Lantern)
+
+## Before heading to Zaphias for Estelle
+![screenshot](images/act-two-094.jpg)
+
+- [ ] After the events at Halure and Quoi Woods, go to Deidon Hold and find Duke on the roof of the Chevaliers' Station (Duke Part 6)
 
 ## After Estelle Joins Back
+![screenshot](images/act-two-103.jpg)
+
 - [ ] When everyone joins back at Zaphias, Flynn joins the party temporarily (PS3 and Definitive Edition)
-- [ ] In Mt Temza, head up for Memorial Compact (Avenging Soldiers Part 2)
-- [ ] In Crag Of Phaeroh, get near the Phantom Seam. Within Yormgen, speak with the Sage within the NW house and rest afterward (Extra Dungeon Part 1)
-- [ ] At the NW of the World Map, you can find Yuumanju at the further north of Mt Temza. Speak with the Receptionist and that is it for now. In the meantime, prepare 900000 Gald (Hotspring Part 1)
-- [ ] In Mantaic, speak with the Cow Boy. Hand over Poison Charm, Paralyze Charm and Stone Charm for Flare Mantle (Cow Boy Part 3)
-- [ ] In Myorzo, obtain the Abyssion from the Elder (Fell Arms Part 1)
+- [ ] In Mt Temza, head up for __Compact of Remembrance__ (Avenging Soldiers Part 2)
+- [ ] In Phaeroh's Crag, approach the __Phantom Rift__. Within Yormgen, speak with the Sage within the NW house and choose to rest when prompted (Extra Dungeon Part 1)
+- [ ] At the NW of the World Map, you can find __Yuumanju__ at the further north of Mt Temza. Speak with the Receptionist and that is it for now. In the meantime, prepare 900000 Gald (Hotspring Part 1)
+- [ ] In Mantaic, speak with the Cow Boy. Hand over Poison Ward, Paralyze Ward and Stone Ward for __Flare Cape__ (Cow Boy Part 3)
+- [ ] In Myorzo, obtain the __Abyssion__ from the Elder (Fell Arms Part 1)
 - [ ] In Nordopolica, arrange the Warehouse for Specific, Paralyze Charm, Treat and 2000 Gald as the reward (Tidy Up The Warehouse Part 4)
 - [ ] In Capua Nor, go west to find Duke (Duke Final Part)
-- [ ] In Capua Torim, toward the port to get the ship modified with Salvage Crane. It works automatically while sailing the sea (Professor Sicily Part 3)
-- [ ] In Capua Torim, speak with the Old Man to the right of the western stairs. You need seven kinds of Food Materials but you can buy them all. For the Pointed Carver, you need *Sharp Blade* Pointed Edge and *Freestone* Flare Stone. Go to the western bar in Dahngrest, talk to the right Bartender for the Pointed Carver. Report back to the Old Man for the Fisherman Pot recipe (PS3 and Definitive Edition)
-- [ ] Once you have obtained the Salvage Crane, go to Capua Nor and go west. Pick first choice and exit out. At the NW of Zaude, there is a Harvest Point. Sail to it and check for a scene (PS3)
-- [ ] In Heliord, speak with Pauly near the Blastia. Go east and defeat the enemies for Repede's Special skill which enables Mystic Artes and Repede's Nanny title (Children Lover)
-- [ ] In Dahngrest, head toward the Inn. Flynn gets the Emperor Of The Nightlife title (PS3 and Definitive Edition)
+- [ ] In Capua Torim, head towards the port to get the ship modified with __Salvage Crane__ and the ability to __sail on shallow area__ (Professor Sicily Part 3)
+- [ ] In Capua Torim, speak with the Round Spectacle Old Man to the right of the western stairs (standing in front of the ice-cream stall). You need seven kinds of Food Materials which you can buy at the shops (the shop at Yumanju carries every Food Materials). For the knife, you need __Sharp Blade__ and __Flare Stone__. Go to the western bar in Dahngrest, talk to the right Bartender for the __Kitchen Knife__. Report back to the Old Man for the __Seafood Stew__ recipe (PS3 and Definitive Edition)
+- [ ] Once you have obtained the Salvage Crane, go to Capua Nor and head towards the signboard on the west. Accept to pay and exit out. At the NW of Zaude, there is a Harvest Point. Sail to it and check for a scene (PS3 and Definitive Edition)
+- [ ] In Heliord, speak with Pauly near the Blastia. Go east and defeat the enemies for Repede's Special skill which enables Mystic Artes and Repede's __Nanny__ title (Children Lover)
+- [ ] In Dahngrest, head toward the Inn. Flynn gets the __Emperor Of The Night__ title (PS3 and Definitive Edition)
 
 ## Zaude
-- [ ] At the area with the Giganto, go up near the Main Gate for the *Beautiful Star* (Maris Stella). This is needed for Secret Mission 20 (PS3 and Definitive Edition)
+![screenshot](images/act-two-108.jpg)
+
+- [ ] At the area with the Giganto, go up near the Main Gate for the __Maris Stella__. This is needed for Secret Mission 20 (PS3 and Definitive Edition)
 
 # Act Three
 
 ## After Everyone Joins Back
-- [ ] In Zaphias, talk to LeBlanc for Raven's Imperial Knights Captain title (Rebuilding The Union Part 2)
+![screenshot](images/act-three-112.jpg)
+
+- [ ] In Zaphias, talk to LeBlanc for Raven's __Imperial Knights Captain__ title (Rebuilding The Union Part 2)
 - [ ] In Zaphias, head toward the Nobles Quarter (Dark Enforcer Part 5)
-- [ ] In Deidon Hold, talk to the Man near the tents to play the Mini Game Boarder Repede. Clear it in short amount of time then quit the Mini Game for Repede's Delivery Dog on the Snow title. For other courses, do the same but Repede needs to equip specific Overdrive Attachment to match each of the Referees (PS3 and Definitive Edition)
-- [ ] In Myorzo, enter the Elder's House. Check the stand before the back wall to get the Bush Baby Doll. Go to Aspio and speak with Thoth for Estelle to learn Astion. If you are to do this later in the game, go to Deidon Hold instead of Aspio (Krytian Style Fighting)
-- [ ] In Myorzo, enter the Elder's House. Check the stand before the back wall (Feelings In The Mural)
+- [ ] In Deidon Hold, talk to the Man near the tents to play __Repede's Pro Snowboarding__ minigame. Clear it in short amount of time then quit the Mini Game for Repede's __Snow Delivery Dog__. When clearing the other courses, Repede needs to equip specific Overdrive Attachment to match the Referees of the course (PS3 and Definitive Edition)
+- [ ] In Myorzo, enter the Elder's House. Check the stand before the back wall to get the __Bush Baby Doll__. Go to Aspio and speak with Tort for Estelle to learn __Astion__. If you are to do this later in the game, go to Deidon Hold instead of Aspio (Krytian Style Fighting)
+- [ ] In Myorzo, ___after finishing the above sidequest___, enter the Elder's House. Check the stand before the back wall (Feelings In The Mural)
 - [ ] In Yuumanju, pay 300000 Gald. After, sleep at any Inn and come back to Pay 600000 Gald (Hotspring Part 2)
 - [ ] Fly toward the top of Mt Temza to trigger a scene (Dragon Race Part 1)
 - [ ] In Mantaic, speak with the Cow Boy. Hand over Hourglass and All Divide for Gel Set (Cow Boy Part 4)
-- [ ] In Capua Torim, toward the port to find Gauche and Droite. Go to Zaude and head to where you fought against Yeager to fight Gauche and Droit. While fighting them, be sure to steal Gauche Sword and Droite Sword. After beating them, you will get the Invitation from the Leviathan's Maiden and the Divine Cannon. With the Invitation from the Leviathan's Maiden, you can unlock 100 Man Melee in the Arena. However, don't clear 100 Man Melee because you won't get the full reward unless you have the Hunting Blades' Invitation (Avenging Soldiers Final Part)
-- [ ] In Capua Torim, speak with the Woman to the right of the western stairs.  Donate 500,000 Gald then attempt to exit out at west to get Estelle's Noble Princess title (Estelle's Teacher Part 4)
-- [ ] In Heliord, go down to the Lower Section. You can find Sicily by the river. After, fight at least ten battles then come back to find Sicily and a Robot. You can chase and find the Robot near the eastern tent (Professor Sicily Part 4)
-- [ ] In Heliord, get near the Blastia (PS3 and Definitive Edition)
-- [ ] In Heliord, speak with the Shop Owner. Take your time to gather the raw materials to get title for Judith, Estelle and Karol (Sexy Clothes)
-- [ ] In Dahngrest, enter the eastern shop and talk to the Soldier. Be sure to get the Statue of Friendship (Favorite Toys Part 1)
-- [ ] In Dahngrest, talk to the right Bartender in the western bar. With the Basement Key, go to Gahsfarost. Check and Sorcerer Ring the left lever on the first floor. You will get the Fake Dein Nomos (Alexei's Research)
-- [ ] In Dahngrest, talk to Yuu by the eastern entrance/exit. Head to the port in Capua Torim and talk to Nobis near by the western entrance/exit of Capua Torim in PS3 and Definitive Edition). Go back to Dahngrest and head in the Inn. Go to the last area of Mt Temza and check the east of the green warp for Ever Light Ore. Report back to Nobis in Capua Torim for 5000 Gald (Guild Quest Part 3)
-- [ ] In Dahngrest, talk to the right Bartender in the western bar. Go to Zaphias and speak with LeBlanc by the fountain. Head in the Inn and speak with Mimura by the counter. Go to the Mansion Of The Wicked and head back to Dahngrest. Speak with Yuu by the eastern entrance/exit. Go back to the Mansion Of The Wicked and go back to Zaphias. Go south toward the Inn then speak with Mimura and Sebas. Pick the second choice and speak with LeBlanc by the fountain. Go report back to the right Bartender in Dahngrest for 6000 Gald (Guild Quest Part 4)
-- [ ] In Dahngrest, talk to the right Bartender in the western bar. Go to the Union HQ and speak with the two at the upper right corner. Head to Baction and after going down the ladder, head up to north. With the Sorcerer Ring Level 3, break through walls to make it to B2F. Head to the room that is at the west of the most SE room. You will find the Schop (Shovel). Report back to the two in the Union HQ for 5500 Gald (Guild Quest Part 5)
+- [ ] In Capua Torim, toward the port to find Gauche and Droite. Go to Zaude and head to where you fought against Yeager to fight Gauche and Droite. While fighting them, be sure to ___steal___ __Gauche Sword__ and __Droite Sword__. After beating them, you will get __Letter of Challenge (L. Claw)__ and __Divine Cannon__ for Raven. With the Letter of Challenge (L. Claw), you can unlock 100 Man Melee in the Arena. However, don't clear 100 Man Melee because you won't get the full reward unless you have the Hunting Blades' Invitation (Avenging Soldiers Final Part)
+- [ ] In Capua Torim, speak with the Woman in front of the floral stall.  Donate 500,000 Gald and attempt to exit town through the west to get Estelle's __Noble Princess__ title (Estelle's Teacher Part 4)
+- [ ] In Heliord, go down to the Lower Section. You can find Sicily by the river. After the cutscene, fight at least ten battles and return back to the same spot where Sicily is. You can find the Robot near the eastern tent (Professor Sicily Part 4)
+- [ ] In Heliord, ~~get near the Blastia~~ __Addendum: Not working for my playthrough__ (PS3 and Definitive Edition)
+- [ ] In Heliord, speak with the Shop Owner. Take your time to gather the raw materials to get title for Judith, Estelle and Karol as some of the materials are not accessible yet (Sexy Clothes)
+- [ ] In Dahngrest, enter the eastern shop and talk to the Soldier. Be sure to get the __Klonoa figurine__ I mean __(C) F Statue__ from the chest (Favorite Toys Part 1)
+
+![screenshot](images/act-three-123.jpg)
+
+- [ ] In Dahngrest, talk to the right Bartender in the western bar to get __Basement Key__. Head to Ghasfarost using the main entrance. Use the key on the left lever and shoot it with Sorcerer Ring to lower down the stairs. You will get the __Fake Dein Nomos__ in the basement (Alexei's Research)
+- [ ] In Dahngrest, talk to Yu by the eastern entrance/exit. Head to the port in Capua Torim and talk to Nobis near by the western entrance/exit of Capua Torim in PS3 and Definitive Edition). Go back to Dahngrest and head in the Inn. Go to the last area of Mt Temza and check the east of the green warp for Everlight Ore. __DO NOT USE THE WARP AS IT WILL SKIP A MISSABLE CUTSCENE__. Instead run all the way back to the exit for a cutscene. Report back to Nobis in Capua Torim for 5000 Gald (Guild Quest Part 3)
+- [ ] In Dahngrest, talk to the right Bartender in the western bar. Go to Zaphias and speak with LeBlanc by the fountain. Head in the Inn and speak with Mimula (that resembles Cumore) by the counter. Go to the Manor of the Wicked and head back to Dahngrest. Speak with Yu by the eastern entrance/exit for __Letter to Leviathan's Claw__. Go back to the Manor of the Wicked and travel to Zaphias one more time. Go south toward the Inn and speak with Mimula and Sebastian next to the save point. Pick the second choice and speak with LeBlanc by the fountain. Go report back to the right Bartender in Dahngrest for 6000 Gald (Guild Quest Part 4)
+- [ ] In Dahngrest, talk to the right Bartender in the western bar. Go to the Union HQ and speak with the two at the upper right corner. Head to Baction and after going down the ladder, head up to north. With the Sorcerer Ring Level 3, break through walls to make it to B2F. Head to the room that is at the west of the most SE room (refer to screenshot). You will find the __Shovel__. Report back to the two in the Union HQ for 5500 Gald (Guild Quest Part 5)
 
 ## After The Birth Of Undine
 - [ ] In Zaphias, head toward the Nobles Quarter for Yuri's Dark Enforcer title (Dark Enforcer Part 6)
@@ -298,7 +315,7 @@ After Estelle joins back at the end:
 - [ ] With Sorcerer Ring Level 4, explore Keiv Moc thoroughly for more items. You can also find the Nebilim (Fell Arms Part 3)
 - [ ] With Sorcerer Ring Level 4, explore Relewiese Hollow thoroughly for more items. You can also find the Mercurius (Fell Arms Part 4)
 - [ ] With Sorcerer Ring Level 4, go back to Quoi Forest. From the eastern entrance/exit, go west a bit and look out for rotten grass. Burn them to an area where you can find the Glasya Labolas (Fell Arms Part 5)
-- [ ] Before you go on any further, make sure you have at least completed 50% of the Collector Book. Walk up the stairs in the west house in Aspio. Later, when you have completed 100% of the Collector Book, head toward the fountain at the west in Halure. You will get Limits Bottle and Estelle's Item Mania title. Make sure you at least activate the part in Aspio NOW because you are JUST before the deadline (Collector Book Final Part)
+- [ ] Before you go on any further, make sure you have at least completed 50% of the Collector's Book. Walk up the stairs in the west house in Aspio. Later, when you have completed 100% of the Collector's Book, head toward the fountain at the west in Halure. You will get Limits Bottle and Estelle's Item Mania title. Make sure you at least activate the part in Aspio NOW because you are JUST before the deadline (Collector's Book Final Part)
 
 ## After Capua Nor
 - [ ] When Patty goes off at nighttime, follow her to the west and toward the port behind the mansion. Get on the boat to the Atherum. Go up to the deck and when fighting Cursed Wanderer, use the *Beautiful Star* (Maris Stella) (Secret Mission 20, PS3 and Definitive Edition)
@@ -351,7 +368,7 @@ ___Save the game before entering back Aurnion___
 
 ___After the above, you may save the game___
 
-- [ ] Sail to the west of the Mansion Of The Wicked to find a Harvest Point. Check it to get the Leo Luca (PS3)
+- [ ] Sail to the west of the Manor of the Wicked to find a Harvest Point. Check it to get the Leo Luca (PS3)
 - [ ] In Zaphias, enter the Inn for Patty's Amazing Chef title (PS3 and Definitive Edition)
 - [ ] In Zaphias, check the Fountain (PS3 and Definitive Edition)
 - [ ] In Zaphias, head toward Lune in the Citizen Quarter (Dark Enforcer Final Part)
@@ -388,11 +405,11 @@ ___After the above, you may save the game___
 - [ ] In Aurnion, find Drake at NE for Estelle's Worldly Adventurer title (Estelle's Teacher Part 6)
 - [ ] Set Raven as the On Screen Character and enter Aurnion. Speak with Drake at the right of the Blastia for Raven's Vanji Lost (Rebuilding The Union Final Part)
 - [ ] In Namcot Island, speak with Miska in the Gym. For the Five Books, search the Elder's Home in Halure, Chevaliers HQ in Heliord, Inn in Mantaic, Chevaliers HQ in Aurnion and Fortune's Market HQ in Capua Torim. Report back to Miska and answer the questions correctly for Rita's Miska Doctoral Degree title (Miska Doctoral Degree)
-- [ ] In Mantaic, go to the Inn then to the Inn in Dahngrest. Go to Namcot Island and speak with the two at NW. Go to Zaphias and speak with the Guard by the Nobles Quarter. After, head into the Castle and speak with Mimura in the Jail Area. Head to Capua Nor and toward the east. Go to the Ghost Ship Atherum for a quick fight and go north after entering Caer Bocram. Go to the Union Jail Area in Dahngrest and feed the Old Man with Okonomiyaki recipe (Use Estelle to cook Fried Chicken And Fries repeatedly to unlock Scottish Egg then use Raven to cook Scottish Egg repeatedly to unlock Okonomiyaki recipe) to get the Note. Report back to Nobis in the Inn of Mantaic (Guild Quest Part 7)
+- [ ] In Mantaic, go to the Inn then to the Inn in Dahngrest. Go to Namcot Island and speak with the two at NW. Go to Zaphias and speak with the Guard by the Nobles Quarter. After, head into the Castle and speak with Mimula in the Jail Area. Head to Capua Nor and toward the east. Go to the Ghost Ship Atherum for a quick fight and go north after entering Caer Bocram. Go to the Union Jail Area in Dahngrest and feed the Old Man with Okonomiyaki recipe (Use Estelle to cook Fried Chicken And Fries repeatedly to unlock Scottish Egg then use Raven to cook Scottish Egg repeatedly to unlock Okonomiyaki recipe) to get the Note. Report back to Nobis in the Inn of Mantaic (Guild Quest Part 7)
 - [ ] In Dahngrest, head toward the central area (Guild Quest Final Part)
 - [ ] After (Guild Quest Part 7), go toward the tree in Halure to get Rita's Ivy Blade (Spirit Magic Final Part)
 - [ ] In Mantaic, hand over Silver Edge + 1 Alpha to Cow Boy for Spectacles, Krona Symbol, Blue Dice, Reverse Doll, Holy Avenger, Super Electric Yoyo, Dragon Helm, Paladin Mantle, Black Onyx, Special Gel, Red Sage, Hourglass, Alexandrite and Reverse Doll (Cow Boy Final Part)
-- [ ] Repeatedly use any tent item on the World Map for Flynn to learn Kouha Senshoujin (PS3 and Definitive Edition)
+- [ ] Repeatedly use any tent item on the World Map for Flynn to learn __Dazzling Spin__ (PS3 and Definitive Edition)
 - [ ] In the Renansula Hollow, head toward the Graveyard (PS3 and Definitive Edition)
 - [ ] Enter Relewiese Hollow for a scene with Sylph (PS3 and Definitive Edition)
 - [ ] Enter Capua Nor and talk to Hisuka. Shastil will then show up. They are Senior Knights from the ToV Movie. Anyway, they are looking for the Sword Of Prayer which is a Treasure of the Chevaliers that got stolen by Alexei. Enter the Aer Krene that is at the SE of Weasand Of Cados. Within, go north to get to the Deep Hollow Region. At the end, get near the center to fight Sword Dancer. Exit out and enter the Aer Krene at the south of Zaphias. At the end, get near the center to fight Sword Dancer. Exit out and enter the Aer Krene at the north of Caer Bocram. At the end, there won't be a battle, so exit out and head to the last Aer Krene which is at the southeast of Yuumanju. At the end, you will fight Sword Dancer one last time. Back track out to meet with Hisuka and Shastil. They will give the Sword Of Prayer Lag Quarion to Flynn (PS3 and Definitive Edition)
@@ -417,7 +434,7 @@ There are few ways to do so:
 
 
 ## After Beating the Game
-- [ ] In Crag Of Phaeroh, get near the Phantom Seam. Within Yormgen, speak with the Sage within the NW House. Head to Dahngrest and exit out. Fly toward the south of Yuumanju and you will discover the Extra Dungeon. Gather enough Imitation Gald then Defeat Kratos at the end to get Braver's Invitation which will unlock 200 Man Melee if you have cleared 100 Man Melee with at least three characters (Extra Dungeon Final Part)
+- [ ] In Phaeroh's Crag, get near the Phantom Rift. Within Yormgen, speak with the Sage within the NW House. Head to Dahngrest and exit out. Fly toward the south of Yuumanju and you will discover the Extra Dungeon. Gather enough Imitation Gald then Defeat Kratos at the end to get Braver's Invitation which will unlock 200 Man Melee if you have cleared 100 Man Melee with at least three characters (Extra Dungeon Final Part)
 - [ ] Unlock 200 Man Melee and if you have cleared Majestic Rank of Team Battle, you will unlock Merciless Rank of Team Battle. Clear it for Limits Octet (PS3 and Definitive Edition)
 - [ ] If you have completed all Secret Missions in the same playthrough, speak with Flynn in Aurnion for Yuri's True Knight title. In the PS3 and Definitive Edition, you need to sleep at the Inn of Aurnion (True Knight)
 - [ ] In Yuumanju, equip everyone with the Hotspring Series titles and speak with the Receptionist (Hotspring Final Part)
