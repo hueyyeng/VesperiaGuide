@@ -198,7 +198,7 @@ After Estelle joins back at the end:
 - [ ] In Nordopolica, head towards the entrance to the Colosseum (Truth Of Ruin's Gate Final Part)
 - [ ] In Nordopolica, head towards the Arena and speak with Natts (After The Death Of Belius)
 - [ ] In Nordopolica, the Arena is now open. Clear 30 Man, 50 Man and 80 Man Melee for now (Arena Part 1)
-- [ ] In Nordopolica, if you have cooked 600 times and Patty has three recipes MASTER, talk to the person to the right of the Shop (PS3 and Definitive Edition)
+- [ ] In Nordopolica, if you have cooked 600 times and Patty has three recipes MASTERED, talk to the person to the right of the Shop (PS3 and Definitive Edition)
 - [ ] In Ehmead Hill, go toward the grave on the cliff to find Duke (Elucifer's Grave Final Part)
 - [ ] Enter Ehmead Hill from the western entrance/exit. Go north, east and north to get the Fire Lilly (Avenging Soldiers Part 1)
 - [ ] Enter Ehmead Hill from the eastern entrance/exit. Go toward the Blastia that is blocking the main road. Head to Aspio and check the bookshelf in the library for __Hermes' Notes__. Go to Capua Torim and rest at the Inn to learn Negative Gate. If you are to do this later in the game, you can get Hermes Memo from a Mage in the Inn of Capua Torim (Study Of Hermes Part 1)
@@ -286,22 +286,24 @@ After Estelle joins back at the end:
 - [ ] In Capua Torim, toward the port to find Gauche and Droite. Go to Zaude and head to where you fought against Yeager to fight Gauche and Droite. While fighting them, be sure to ___steal___ __Gauche Sword__ and __Droite Sword__. After beating them, you will get __Letter of Challenge (L. Claw)__ and __Divine Cannon__ for Raven. With the Letter of Challenge (L. Claw), you can unlock 100 Man Melee in the Arena. However, don't clear 100 Man Melee because you won't get the full reward unless you have the Hunting Blades' Invitation (Avenging Soldiers Final Part)
 - [ ] In Capua Torim, speak with the Woman in front of the floral stall.  Donate 500,000 Gald and attempt to exit town through the west to get Estelle's __Noble Princess__ title (Estelle's Teacher Part 4)
 - [ ] In Heliord, go down to the Lower Section. You can find Sicily by the river. After the cutscene, fight at least ten battles and return back to the same spot where Sicily is. You can find the Robot near the eastern tent (Professor Sicily Part 4)
-- [ ] In Heliord, ~~get near the Blastia~~ __Addendum: Not working for my playthrough__ (PS3 and Definitive Edition)
+- [ ] In Heliord, get near the Blastia __Addendum: Need to be done at night__ (PS3 and Definitive Edition)
 - [ ] In Heliord, speak with the Shop Owner. Take your time to gather the raw materials to get title for Judith, Estelle and Karol as some of the materials are not accessible yet (Sexy Clothes)
 - [ ] In Dahngrest, enter the eastern shop and talk to the Soldier. Be sure to get the __Klonoa figurine__ I mean __(C) F Statue__ from the chest (Favorite Toys Part 1)
 
 ![screenshot](images/act-three-123.jpg)
 
-- [ ] In Dahngrest, talk to the right Bartender in the western bar to get __Basement Key__. Head to Ghasfarost using the main entrance. Use the key on the left lever and shoot it with Sorcerer Ring to lower down the stairs. You will get the __Fake Dein Nomos__ in the basement (Alexei's Research)
+- [ ] In Dahngrest, talk to the right Bartender in the western bar to get __Basement Key__. Head to Ghasfarost using the main entrance. Use the key on the left lever and shoot it with Sorcerer Ring to lower down the stairs. You will get the __False Dein Nomos__ in the basement (Alexei's Research)
 - [ ] In Dahngrest, talk to Yu by the eastern entrance/exit. Head to the port in Capua Torim and talk to Nobis near by the western entrance/exit of Capua Torim in PS3 and Definitive Edition). Go back to Dahngrest and head in the Inn. Go to the last area of Mt Temza and check the east of the green warp for Everlight Ore. __DO NOT USE THE WARP AS IT WILL SKIP A MISSABLE CUTSCENE__. Instead run all the way back to the exit for a cutscene. Report back to Nobis in Capua Torim for 5000 Gald (Guild Quest Part 3)
 - [ ] In Dahngrest, talk to the right Bartender in the western bar. Go to Zaphias and speak with LeBlanc by the fountain. Head in the Inn and speak with Mimula (that resembles Cumore) by the counter. Go to the Manor of the Wicked and head back to Dahngrest. Speak with Yu by the eastern entrance/exit for __Letter to Leviathan's Claw__. Go back to the Manor of the Wicked and travel to Zaphias one more time. Go south toward the Inn and speak with Mimula and Sebastian next to the save point. Pick the second choice and speak with LeBlanc by the fountain. Go report back to the right Bartender in Dahngrest for 6000 Gald (Guild Quest Part 4)
 - [ ] In Dahngrest, talk to the right Bartender in the western bar. Go to the Union HQ and speak with the two at the upper right corner. Head to Baction and after going down the ladder, head up to north. With the Sorcerer Ring Level 3, break through walls to make it to B2F. Head to the room that is at the west of the most SE room (refer to screenshot). You will find the __Shovel__. Report back to the two in the Union HQ for 5500 Gald (Guild Quest Part 5)
 
 ## After The Birth Of Undine
-- [ ] In Zaphias, head toward the Nobles Quarter for Yuri's Dark Enforcer title (Dark Enforcer Part 6)
-- [ ] In Halure, speak with the kids under the tree to get Estelle's Fairy Tale Weaver title (Under The Tree Part 3)
-- [ ] In Halure, get near the tree for Estelle to learn Force Field (Under The Tree Part 4)
-- [ ] In Myorzo, head to the second area. Speak with the Kid at the lower right to play the Dragon Race. Clear Level 3 to get Clones Dew which will power up Baul automatically. If you clear Level 5, you can get The Red Mantle and Judith's Super Dragon Rider title. If you have done at least 1000 Fatal Strike Chains, rest at the Inn then speak with the Kid for Judith's Into The Sky title (Dragon Race Final Part)
+![screenshot](images/act-three-129.jpg)
+
+- [ ] In Zaphias, head toward the Nobles Quarter for Yuri's __Dark Enforcer__ title (Dark Enforcer Part 6)
+- [ ] In Halure, speak with the kids under the tree to get Estelle's __Fairy Tale Weaver__ title (Under The Tree Part 3)
+- [ ] In Halure, _after completing the above_, get near the tree for Estelle to learn __Force Field__ (Under The Tree Part 4)
+- [ ] In Myorzo, head to the second area. Speak with the Kid at the lower right to play the Dragon Race. Clear Level 3 to get Clones Dew which will power up Baul automatically. If you clear Level 5, you can get The Red Mantle and Judith's __Super Dragon Rider__ title. If you have done at least 1000 Fatal Strike Chains, rest at the Inn then speak with the Kid for Judith's __Into The Sky__ title (Dragon Race Final Part)
 
 ## After Nordopolica
 - [ ] In Aspio, head toward the center. Rest at the Inn at least twice and head toward the center again for Rita to learn Meteor Swarm. If you are to activate this later in the game, go to Halure instead (Spirit Magic Part 1)
@@ -387,7 +389,7 @@ ___After the above, you may save the game___
 - [ ] With the Hunting Blades' Invitation 2 and if you have cleared Introductory Rank of Team Battle at the Arena, you will then unlock Majestic Rank of Team Battle. If you don't have Karol and Raven in the Active Party, then you will fight them in the Majestic Rank (PS3 and Definitive Edition)
 - [ ] In Heliord, go down to the Lower Section and talk to Witcher. Karolow X will be modified (PS3 and Definitive Edition)
 - [ ] After (One Night Training), go to Dahngrest. Head toward the central area and pick either choice for Karol's Infinity (Big Voice Contest)
-- [ ] With all recipes from Wonder Chef and all developed recipes, go to the Port in Nordopolica to talk to Wonder Chef for Mabo Curry recipe and the Cooking Battle Invitation. Go to Dahngrest to enter The Bistro Black Hole. The Participant should have MASTER on all HP or TP Recovery recipes and at least Three Stars for all other recipes. That will win you the Cooking Series titles (Cooking Battle)
+- [ ] With all recipes from Wonder Chef and all developed recipes, go to the Port in Nordopolica to talk to Wonder Chef for Mabo Curry recipe and the Cooking Battle Invitation. Go to Dahngrest to enter The Bistro Black Hole. The Participant should have MASTERED on all HP or TP Recovery recipes and at least Three Stars for all other recipes. That will win you the Cooking Series titles (Cooking Battle)
 - [ ] In Yormgen, check the Red Box (Illusion)
 - [ ] In Yormgen, speak with the Butler of the Nobles. Enter the Zopheir Rift from the west and you will see the Micro Circuit. Report back and the male characters will get their Swimsuit Series titles. Talk to the Butler and go to Halure. Go west and talk to Giovanni near the Fountain for the Super Aer Board. Report back and the female characters will get their Swimsuit Seies titles (PS3 and Definitive Edition)
 - [ ] Go to Mt Temza and head to the third area for Judith's Sundering Moon (Judith's Sundering Moon Final Part)

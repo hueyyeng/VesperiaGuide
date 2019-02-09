@@ -1,6 +1,6 @@
 # Recipes Checklist for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 20 January 2019
+- Last updated: 9 February 2019
 - Source: [How to Unlock All Cooking Recipes](https://steamcommunity.com/sharedfiles/filedetails/?id=1621018067)
 
 ## Quick Glance
@@ -28,7 +28,7 @@ The Wonder Chef list will can be found at the bottom of the guide.
 - [ ] __Pork Miso Soup__: Cooked ___Vichyssoise___ repeatedly.
 
 ### Repede
-- [ ] __Dog Food__: Cooked ___woof Any Recipe woof___ repeatedly.
+- [ ] __Dog Food__: Cooked ___woof Any Recipe woof___.
 
 ### Karol
 - [ ] __Omelette Rice__: Cooked ___Beef Bowl___ repeatedly.

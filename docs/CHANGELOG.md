@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.12 (2019-02-09)
+- Add spoiler-free checklist.
+- Update requirement for a missable event in Heliord.
+
 ## 0.0.11 (2019-02-06)
 - Various name updates to official English translation.
 - Various Engrish grammar fix.
