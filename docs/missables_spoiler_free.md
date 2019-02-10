@@ -153,7 +153,7 @@ After Estelle joins back at the end:
 - [ ] Return to Heliord and talk to the two near the eastern entrance/exit. Patty will learn a new arte and obtain a new title (PS3 and Definitive Edition)
 - [ ] Return to Zaphias and head into Yuri's Room to get an item from a certain NPC (Yuri's Downtown Life)
 
-## After the Death Of Don
+## After the Event with the Don
 
 - [ ] In Dahngrest, enter the western bar and you will get the an item from Optional Wise NPC (Estelle's Teacher Part 3)
 - [ ] In Dahngrest, sleep at the Inn to earn a new title (Sleepless Night)
