@@ -1,6 +1,10 @@
 # Changelog
 
 ## 0.0.12 (2019-02-09)
+- Merge `missables_spoiler_free.md` pull request by user `lennartb-`
+- Minor grammar fix.
+
+## 0.0.12 (2019-02-09)
 - Add spoiler-free checklist.
 - Update requirement for a missable event in Heliord.
 

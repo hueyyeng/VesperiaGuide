@@ -1,6 +1,6 @@
 # Spoiler-free Missables Checklist for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 9 February 2019
+- Last updated: 10 February 2019
 - Source: [Kouli's Guide - Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 I replaced any potential plot reference with generic names. To keep you guessing, I also removed the type of rewards from completing a sidequest.
@@ -98,7 +98,7 @@ After Estelle joins back at the end:
  - [ ] In Deidon Hold, arrange the Warehouse for reward galore (Tidy Up The Warehouse Part 1)
  - [ ] In Zaphias, talk to an Old Woman at the Lower Quarter. Go north to find Estelle and Rita. Go to the Nobles Quarter to find Estelle and Rita again (PS3 and Definitive Edition)
  - [ ] In Zaphias, head toward the Nobles Quarter. Go on to the west to talk to Wealthy Looking NPC again. Back track to the previous area and talk to Lady NPC who is sitting on a bench. Yuri will learn a new arte and a new title (Dark Enforcer Part 2)
- - [ ] In Capua Nor, go west and find Quirky NPC for Raven to learn the a new skill and a new title (Professor Quirky NPC Part 2)
+ - [ ] In Capua Nor, go west and find Quirky NPC for Raven to learn a new skill and a new title (Professor Quirky NPC Part 2)
  - [ ] In Capua Torim, arrange the Warehouse for more rewards galore (Tidy Up The Warehouse Part 2)
 
 ## Ocean
@@ -117,7 +117,7 @@ After Estelle joins back at the end:
 
 ## Capua Torim
 
-- [ ] Go toward the Harbor to get the a sidequest item and a new title for Repede. In Zaphias, talk to a dog at the right side of the shop to get the an item. Upon 50% completion of the sidequest item, a scene will trigger automatically on the world map
+- [ ] Go toward the Harbor to get a sidequest item and a new title for Repede. In Zaphias, talk to a dog at the right side of the shop to get an item. Upon 50% completion of the sidequest item, a scene will trigger automatically on the world map
 
 ## Nordopolica
 
@@ -155,7 +155,7 @@ After Estelle joins back at the end:
 
 ## After the Event with the Don
 
-- [ ] In Dahngrest, enter the western bar and you will get the an item from Optional Wise NPC (Estelle's Teacher Part 3)
+- [ ] In Dahngrest, enter the western bar and you will get an item from Optional Wise NPC (Estelle's Teacher Part 3)
 - [ ] In Dahngrest, sleep at the Inn to earn a new title (Sleepless Night)
 - [ ] In Dahngrest, sleep at the Inn and there is a 100% chance that you will get a scene. Repeat this for four scenes in total. A certain playable character will learn the Special skill which enables the use of Mystic Artes
 - [ ] Enter the Shaikos Ruins (Truth Of Ruin's Gate Part 1)
@@ -171,7 +171,7 @@ After Estelle joins back at the end:
 - [ ] In Nordopolica, the Arena is now open. Clear 30 Man, 50 Man and 80 Man Melee for now (Arena Part 1)
 - [ ] In Nordopolica, if you have cooked 600 times and Patty has three recipes MASTERED, talk to the person to the right of the Shop (PS3 and Definitive Edition)
 - [ ] In Ehmead Hill, go toward the grave on the cliff to find White Hair Dude (Random's Grave Final Part)
-- [ ] Enter Ehmead Hill from the western entrance/exit. Go north, east and north to get the a flower item (Avenging Soldiers Part 1)
+- [ ] Enter Ehmead Hill from the western entrance/exit. Go north, east and north to get the flower item (Avenging Soldiers Part 1)
 - [ ] Enter Ehmead Hill from the eastern entrance/exit. Go toward the Blastia that is blocking the main road. Head to Aspio and check the bookshelf in the library for an item. Go to Capua Torim and rest at the Inn to learn a new arte. If you are to do this later in the game, you can get that item from a Mage in the Inn of Capua Torim (Study Of Clever Dude Part 1)
 - [ ] In Capua Nor, you can find Nan if you have ___completed 50% of the Monster Book___ (Monster Book Part 1)
 - [ ] In Capua Torim, toward the right of the Fortune's Market HQ. Speak with the Female by the tree (The Dragoon Final Part)
@@ -185,7 +185,7 @@ After Estelle joins back at the end:
 
 ## After Meeting Important Plot NPC
 
-- [ ] To get the a plot driven item, you need to go to Renansula Hollow after revisiting Aspio and speak with Elf Looking NPC as Judith (PS3 and Definitive Edition)
+- [ ] To get the plot driven item, you need to go to Renansula Hollow after revisiting Aspio and speak with Elf Looking NPC as Judith (PS3 and Definitive Edition)
 
 ## Renansula Hollow
 
