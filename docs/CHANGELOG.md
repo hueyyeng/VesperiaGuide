@@ -1,6 +1,10 @@
 # Changelog
 
 ## 0.0.12 (2019-02-09)
+- Minor name updates to official English translation.
+- Add remarks on certain missables from playtesting.
+
+## 0.0.12 (2019-02-09)
 - Merge `missables_spoiler_free.md` pull request by user `lennartb-`
 - Minor grammar fix.
 

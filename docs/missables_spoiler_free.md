@@ -1,6 +1,6 @@
 # Spoiler-free Missables Checklist for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 10 February 2019
+- Last updated: 11 February 2019
 - Source: [Kouli's Guide - Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 I replaced any potential plot reference with generic names. To keep you guessing, I also removed the type of rewards from completing a sidequest.
@@ -154,6 +154,7 @@ After Estelle joins back at the end:
 - [ ] Return to Zaphias and head into Yuri's Room to get an item from a certain NPC (Yuri's Downtown Life)
 
 ## After the Event with the Don
+> Note: This is after completing an outskirt building that belongs to a certain guild and revisiting Dahngrest to trigger the next plot advancement.
 
 - [ ] In Dahngrest, enter the western bar and you will get an item from Optional Wise NPC (Estelle's Teacher Part 3)
 - [ ] In Dahngrest, sleep at the Inn to earn a new title (Sleepless Night)

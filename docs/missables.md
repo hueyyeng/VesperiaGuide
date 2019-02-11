@@ -1,6 +1,6 @@
 # Kouli's Guide for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 6 February 2019
+- Last updated: 11 February 2019
 - Source: [Kouli's Guide - Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 ### TODO:
@@ -209,6 +209,9 @@ After Estelle joins back at the end:
 - [ ] In Dahngrest, enter the western bar. Exit out and talk to the Girl that is at the center of the town. Enter the eastern bar and talk to another Girl. Head toward the Union HQ to get Raven's __Ladies' Man__ title (Ladies' Man)
 - [ ] In Dahngrest, enter the western bar and talk to Sassoon at the upper left corner. You can get various Attachment/Title based on what you have. Be sure to check out with her frequently (PS3 and Definitive Edition)
 - [ ] In Dahngrest, go to the Union HQ and go find Kaufman in the Fortune's Market in Capua Torim (Rebuilding The Union Part 1)
+
+![screenshot](images/act-two-085.jpg)
+
 - [ ] In Dahngrest, enter the western bar and speak with the right Bartender. Go to the Inn to speak with Rhianna. Exit out and go toward the lower right bridge. Go to Heliord and head down to the lower section to talk to a Girl. Trade __Bird Feather (Small)__ for the __Everlight Necklace__. Report back to Rhianna at the Inn of Dahngrest (Guild Quest Part 2)
 - [ ] In Dahngrest, enter the western bar and speak with the middle Bartender. Clear all three levels with everyone except Yuri, Patty and Repede for the __Waiter/Waitress__ series titles. When you play the Waiter/Waitress Game at latter part of the game, you can win more Gald (Waiter/Waitress Game)
 
@@ -303,13 +306,15 @@ After Estelle joins back at the end:
 - [ ] In Zaphias, head toward the Nobles Quarter for Yuri's __Dark Enforcer__ title (Dark Enforcer Part 6)
 - [ ] In Halure, speak with the kids under the tree to get Estelle's __Fairy Tale Weaver__ title (Under The Tree Part 3)
 - [ ] In Halure, _after completing the above_, get near the tree for Estelle to learn __Force Field__ (Under The Tree Part 4)
-- [ ] In Myorzo, head to the second area. Speak with the Kid at the lower right to play the Dragon Race. Clear Level 3 to get Clones Dew which will power up Baul automatically. If you clear Level 5, you can get The Red Mantle and Judith's __Super Dragon Rider__ title. If you have done at least 1000 Fatal Strike Chains, rest at the Inn then speak with the Kid for Judith's __Into The Sky__ title (Dragon Race Final Part)
+- [ ] In Myorzo, head to the second area. Speak with the Kid at the lower right to play the Dragon Race. Clear Level 3 to get Clones Dew which will power up Baul automatically. If you clear Level 5, you can get __Ultimate Red Cape__ and Judith's __Super Dragon Rider__ title. If you have done at least 1000 Fatal Strike Chains, rest at the Inn then speak with the Kid for Judith's __Into The Sky__ title (Dragon Race Final Part)
 
-## After Nordopolica
-- [ ] In Aspio, head toward the center. Rest at the Inn at least twice and head toward the center again for Rita to learn Meteor Swarm. If you are to activate this later in the game, go to Halure instead (Spirit Magic Part 1)
+## After Fending Off Nordopolica From Threats
+![screenshot](images/act-three-131.jpg)
+
+- [ ] In Aspio, head towards the center. Rest at the Inn at least twice and revisit the center again for Rita to learn __Meteor Storm__. If you are to activate this later in the game, go to Halure instead (Spirit Magic Part 1)
 - [ ] In Dahngrest, rest at the Inn (Raven And The Heart Blastia)
 - [ ] In Myorzo, speak with the Elder (Judith's Sundering Moon Part 1)
-- [ ] If you have finished (Sexy Clothes), sail to the near west of Nordopolica and check the Harvest Point for Patty's Glamorous Walker title (PS3 and Definitive Edition)
+- [ ] If you have finished (Sexy Clothes) __Addendum: The crafting materials are pretty much impossible for first-time playthrough at this point so don't sweat it as you can revisit this missable later__, sail to the near west of Nordopolica and check the Harvest Point for Patty's __Glamorous Walker__ title (PS3 and Definitive Edition)
 
 ## After Getting All Four Spirits
 - [ ] A scene will trigger while flying around with Baul (Anxiety Of Spiritization)
