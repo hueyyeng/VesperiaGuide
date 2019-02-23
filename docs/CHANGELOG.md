@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.14 (2019-02-23)
+- WIP: Verify Act 3's missables.
+- Minor name updates to official English translation.
+
 ## 0.0.14 (2019-02-09)
 - Minor name updates to official English translation.
 - Add remarks on certain missables from playtesting.
