@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.14 (2019-03-01)
+- Replace `Memory Circle` with `Save Point`
+- Update Act 3's After Aurnion missables.
+- Minor name updates to official English translation.
+
 ## 0.0.14 (2019-02-23)
 - WIP: Verify Act 3's missables.
 - Minor name updates to official English translation.

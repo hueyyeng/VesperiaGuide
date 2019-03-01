@@ -1,6 +1,6 @@
 # Missables Checklist for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 23 February 2019
+- Last updated: 01 March 2019
 - Source: [Kouli's Guide - Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 ### TODO:
@@ -286,7 +286,7 @@ After Estelle joins back at the end:
 - [ ] In Yumanju, pay 300000 Gald. After, sleep at any Inn and come back to Pay 600000 Gald (Hotspring Part 2)
 - [ ] Fly toward the top of Mt Temza to trigger a scene (Dragon Race Part 1)
 - [ ] In Mantaic, speak with the Cow Boy. Hand over Hourglass and All Divide for Gel Set (Cow Boy Part 4)
-- [ ] In Capua Torim, toward the port to find Gauche and Droite. Go to Zaude and head to where you fought against Yeager to fight Gauche and Droite. While fighting them, be sure to ___steal___ __Gauche Sword__ and __Droite Sword__. After beating them, you will get __Letter of Challenge (L. Claw)__ and __Divine Cannon__ for Raven. With the Letter of Challenge (L. Claw), you can unlock 100 Man Melee in the Arena. However, don't clear 100 Man Melee because you won't get the full reward unless you have the Hunting Blades' Invitation (Avenging Soldiers Final Part)
+- [ ] In Capua Torim, toward the port to find Gauche and Droite. Go to Zaude and head to where you fought against Yeager to fight Gauche and Droite. While fighting them, be sure to ___steal___ __Gauche Sword__ and __Droite Sword__. After beating them, you will get __Letter of Challenge (L. Claw)__ and __Divine Cannon__ for Raven. With the Letter of Challenge (L. Claw), you can unlock 100 Man Melee in the Arena. However, don't clear 100 Man Melee because you won't get the full reward unless you have the Letter of Challenge (H. Blades) (Avenging Soldiers Final Part)
 - [ ] In Capua Torim, speak with the Woman in front of the floral stall.  Donate 500,000 Gald and attempt to exit town through the west to get Estelle's __Noble Princess__ title (Estelle's Teacher Part 4)
 - [ ] In Heliord, go down to the Lower Section. You can find Sicily by the river. After the cutscene, fight at least ten battles and return back to the same spot where Sicily is. You can find the Robot near the eastern tent (Professor Sicily Part 4)
 - [ ] In Heliord, get near the Blastia __Addendum: Need to be done at night__ (PS3 and Definitive Edition)
@@ -344,8 +344,8 @@ After Estelle joins back at the end:
 - [ ] After beating all eleven Giganto Monsters, go back to speak with Rich for Karol's __Valiant Swordsman__ title. Go back to Capua Torim to speak with Rich's Father and report back to Rich (King Of Adventure Part 3)
 - [ ] In Capua Torim, you can enter the Lighthouse which is Patty's Home (PS3 and Definitive Edition)
 - [ ] In Nam Cobanda Isle, talk to the Cow Boy at NE. For 300 Chips, you can fight specific bosses for any missed Secret Mission. However, you don't get any Grade, Item, EXP and Gald (PS3 and Definitive Edition)
-- [ ] In Nam Cobanda Isle, enter the Gym. Speak with the Cow Boy at the Chip Exchange, Poker Table and the Ant Lion by the Toy Machines. Use over 250000 worth of Chips to trade in Prizes for Judith's Poker Face title. After, exit out the Gym and enter the Shoe Locker (Poker Face)
-- [ ] In Nam Cobanda Isle, enter the Gym and speak with the Cow Boy at the Poker Table if you haven't done so yet. Exit out and enter back the Gym to trigger the scene with Kaufman. Whether you win or lose the match, Judith will get the Legendary Gambler title (Gamble Life)
+- [ ] In Nam Cobanda Isle, enter the Gym. Speak with the Cow Boy at the Chip Exchange, Poker Table and the Ant Lion by the Toy Machines. Use over 250000 worth of Chips to trade in Prizes for Judith's __Poker Face__ title. After, exit out the Gym and enter the Shoe Locker (Poker Face)
+- [ ] In Nam Cobanda Isle, enter the Gym and speak with the Cow Boy at the Poker Table if you haven't done so yet. Exit out and enter back the Gym to trigger the scene with Kaufman. Whether you win or lose the match, Judith will get the __Legendary Gambler__ title (Gamble Life)
 - [ ] In Nam Cobanda Isle, speak with the Ant Lion near the entrance/exit after you have done (Favorite Toys Final Part). If you have opened up 445 (86%) Treasure Boxes, you will get Yuri's Treasure Hunter title (Treasure Hunter)
 
 > __FAVORITE TOYS SIDEQUEST NOTE:__ For PS3 and Definitive Edition, you need to wait until Flynn joins the party permanently for Hanks to show up in Zaphias.
@@ -394,26 +394,26 @@ Here's the list of artes (thanks to __Massicot__ from ResetEra!):
 - [ ] Sail to the west of the Manor of the Wicked to find a Harvest Point. Check it to get the __Leoluca__ for Patty (PS3)
 - [ ] In Zaphias, enter the Inn for Patty's __Amazing Chef__ title (PS3 and Definitive Edition)
 - [ ] In Zaphias, check the Fountain (PS3 and Definitive Edition)
-- [ ] In Zaphias, approach the sitting bench on the right side in the Citizen Quarter for a scene with Lune (Dark Enforcer Final Part)
-- [ ] Enter Keiv Moc to get __Hunting Blades' Invitation__ and Karol's __Golden Soldier__ title. With the Hunting Blades' Invitation and if you have cleared (Avenging Soldiers Final Part) previously, you may clear the 100 Man Melee and get the reward. Be sure to clear 100 Man Melee with at least three characters since it is one of the conditions to unlock 200 Man Melee (Golden Soldier)
+- [ ] In Zaphias, approach the sitting bench on the right side in the Public Quarter for a scene with Lune (Dark Enforcer Final Part)
+- [ ] Enter Keiv Moc to get __Letter of Challenge (H. Blades)__ and Karol's __Golden Soldier__ title. With the Letter of Challenge (H. Blades) and if you have cleared (Avenging Soldiers Final Part) previously, you may clear the 100 Man Melee and get the reward. Be sure to clear 100 Man Melee with at least three characters since it is one of the conditions to unlock 200 Man Melee (Golden Soldier)
 - [ ] If you enter the 100 Man Melee with Flynn, you will fight Yuri at the end (PS3 and Definitive Edition)
 - [ ] If you talk to the left Receptionist at the Arena, you can enter the Introductory Rank of Team Battle (PS3 and Definitive Edition)
-- [ ] Enter Aurnion for the __Warrior's Invitation__ (Rest at Yuri's Room in Zaphias for the PS3 and Definitive Edition). If you have cleared (Golden Soldier) and (Avenging Soldiers Final Part), you have three out of the four Invitations now (Arena Final Part)
+- [ ] Enter Aurnion for the __Letter of Challenge (Flynn)__ (Rest at Yuri's Room in Zaphias for the PS3 and Definitive Edition). If you have cleared (Golden Soldier) and (Avenging Soldiers Final Part), you have three out of the four Invitations now (Arena Final Part)
 - [ ] Enter Halure (Under The Tree Final Part)
 - [ ] In Halure, toward the tree and speak with a Mage on the way if your party has inflicted over 60000000 damage in total. You will get Rita's __Seeker__ title (Seeker)
-- [ ] In Heliord, go down to the Lower Section. Find Sicily by the river for __Murakumo__ if Repede is above Level 50... in the PS3 and Definitive Edition, you will get this together with Repede's Joke Weapon at Halure after fulfilling Repede's motivational sidequest (Professor Sicily Part 5)
-- [ ] In Halure, speak with Sicily near the Inn for Joke Weapons if you have completed the requirement. In the PS3 and Definitive Edition, you need to clear the 30 Man Melee under one minute and 30 seconds for Flynn's, Synthesis two hundred times for Patty's (Professor Sicily Final Part)
+- [ ] In Heliord, go down to the Lower Section. Find Sicily by the river for __Murakumo__ if Repede is above Level 50. You will get this together with Repede's Joke Weapon at Halure after fulfilling Repede's motivational sidequest if you miss the scene (Professor Sicily Part 5)
+- [ ] In Halure, speak with Sicily near the Inn for __Joke Weapons__ if you have completed the requirement. In the PS3 and Definitive Edition, you need to clear the 30 Man Melee under 90 seconds for Flynn and synthesis two hundred times for Patty (Professor Sicily Final Part)
 - [ ] In Capua Nor, you can find Nan if you have completed 100% of the Monster Book. You will get Karol's __Manly Man__ title (Monster Book Final Part)
 - [ ] In Capua Torim, talk to the Sailor near the slide. Patty will learn __Critical Moment__ (PS3 and Definitive Edition)
 - [ ] Enter Capua Torim from the western entrance/exit for Karol to learn __Rending Drop__ (One Night Training)
-- [ ] In Caer Bocram, go north then go west all the way to fight Clint. You will get the __Hunting Blades' Invitation 2__ (PS3 and Definitive Edition)
-- [ ] With the Hunting Blades' Invitation 2 and if you have cleared Introductory Rank of Team Battle at the Arena, you will then unlock Majestic Rank of Team Battle. If you don't have Karol and Raven in the Active Party, then you will fight them in the Majestic Rank (PS3 and Definitive Edition)
+- [ ] In Caer Bocram, go north then go west all the way to fight Clint. You will get the __Letter of Challenge (H. Blades) 2__ (PS3 and Definitive Edition)
+- [ ] With the Letter of Challenge (H. Blades) 2 and if you have cleared Introductory Rank of Team Battle at the Arena, you will then unlock Majestic Rank of Team Battle. If you don't have Karol and Raven in the Active Party, then you will fight them in the Majestic Rank (PS3 and Definitive Edition)
 - [ ] In Heliord, go down to the Lower Section and talk to Witcher. Karolow X will be modified (PS3 and Definitive Edition)
 - [ ] After (One Night Training), go to Dahngrest. Head towards the central area and pick either choice for Karol's very own Keyblade I mean __Infinity__ (Big Voice Contest)
-- [ ] After obtaining all recipes from Wonder Chef and unlocking recipes, go to the Port in Nordopolica to talk to Wonder Chef for __Mabo Curry recipe__ and the __Cooking Battle Invitation__. Go to Dahngrest to enter The Bistro Black Hole. The participant should have __MASTERED__ every HP/TP Recovery recipes and at least Three Stars for the other recipes. That will win you the Cooking Series titles (Cooking Battle)
+- [ ] After obtaining all recipes from Wonder Chef and unlocking recipes, go to the Port in Nordopolica to talk to Wonder Chef for __Mabo Curry recipe__ and the __Cooking Match Invitation__. Go to Dahngrest to enter The Bistro Black Hole. The participant should have __MASTERED__ every HP/TP Recovery recipes and at least Three Stars for the other recipes. That will win you the Cooking Series titles (Cooking Battle)
 - [ ] In Yormgen, check the Red Box (Illusion)
 - [ ] In Yormgen, speak with the Butler of the Nobles. Enter the Zopheir Rift from the west and you will see the Micro Circuit. Report back and the male characters will get their Swimsuit Series titles. Talk to the Butler and go to Halure. Go west and talk to Giovanni near the Fountain for the Super Aer Board. Report back and the female characters will get their Swimsuit Seies titles (PS3 and Definitive Edition)
-- [ ] Go to Mt Temza and head to the third area for Judith's Sundering Moon (Judith's Sundering Moon Final Part)
+- [ ] Go to Mt Temza and head to the third area for Judith's __Sundering Moon__ (Judith's Sundering Moon Final Part)
 - [ ] Fly to the Yurzorea Continent East and enter the rock formation for the Sorcerer Ring Level 5 (Fell Arms Part 6)
 - [ ] In Yumanju, you can get the Hotspring Series titles (Hotspring Part 3)
 - [ ] In Aurnion, toward the left of the Blastia when Repede is at least Level 60 to get Repede's __Tough Hound__ title (Tough Hound)
@@ -441,22 +441,22 @@ Here's the list of artes (thanks to __Massicot__ from ResetEra!):
 - [ ] Rest at the Inn for a scene between Rita and Judith. Rita will name the keepsake __Juana__ (Study Of Hermes Final Part)
 - [ ] Lastly, rest at the Inn again for a scene between the party and Kaufman
 - [ ] You may now exit out and go to Caer Bocram. Go north and enter the most right house for Judith's Brionac. In the PS3 and Definitive Edition, Brionac is in the NW House.
-- [ ] Afterward, you can sleep at the Inn of Aurnion one last time. __Addendum: Maybe the 360 version? I can't seem to trigger anything on my Definitive Edition playthrough__ (Brionac Final Part)
 
 ### Repede's Dog Map Sidequest
 > __NOTE:__ If the Aurnion scene are not being triggered, you must camp at more __fields__ (do not be misled by the Dog Map's progress bar). Refer to the field's name at the top right of the party menu screen whenever you're on the world map.
 
 - [ ] In Dahngrest, talk to the cat by the western entrance/exit. In Aurnion, head toward the west when you have completed 85% of the Dog Map. You will get the __Pork Chop__ attachment and Little Wolf's territories will not expand anymore (Dog Map Part 2)
-- [ ] In Zaphias, talk to the cat near the Memory Circle when you have completed 95% of the Dog Map. You will get Repede's __Great Boss__ title (Dog Map Final Part)
+- [ ] In Zaphias, talk to the dog near the Save Point when you have completed 95% of the Dog Map. You will get Repede's __Great Boss__ title (Dog Map Final Part)
 
 ## Tarqaron
 
-- [ ] Equip the Shining Star title and make Raven as the On Screen Character. From the last Memory Circle, back track and go SE to a new area. Continue on to trigger a scene (Encouragement Of The Schwann Team Final Part)
-- [ ] At the huge area with ladders, look for a path around the middle or the east. They lead to the Susanoh and the Uroboros. With all seven (nine in PS3 and Definitive Edition) Fell Arms, exit out Tarqaron and head to Aurnion (In PS3 and Definitive Edition, you don't need to go to Aurnion). Go fight the Last Boss and you will fight his Third Form to unlock the Fell Arms. The strength of the Fell Arms depends on how many enemies killed with or without equipping the Fell Arms (Fell Arms Final Part)
-- [ ] In Aurnion, you can find Agueron at NW. Talk to him and hand over raw materials to him for a total of three times. To make him reappear after each handover, sleep at the Inn few times and reenter Aurnion. After the third time, sleep few times and reenter Aurnion. You will get the King's Mantle (Development Of Aurnion)
-- [ ] In Developed Aurnion, speak with Yodel at the west to get Estelle's Blue Crystal Rod (Estelle's Teacher Final Part)
+- [ ] In Aurnion, you can find Agueron at NW. Talk to him and hand over raw materials to him for a total of three times. To make him reappear after each handover, sleep at the Inn few times and reenter Aurnion. After the third time, sleep few times and reenter Aurnion. You will get the __King's Cape__ (Development Of Aurnion)
+- [ ] In Developed Aurnion, speak with Ioder at the west to get Estelle's __Blue Crystal Rod__ (Estelle's Teacher Final Part)
 - [ ] In Developed Aurnion, arrange the Warehouse for Special Gel, Strange Piece, Spring Of Knowledge, 2000 Gald and Karol's Warehouse Master title (Tidy Up The Warehouse Final Part)
-- [ ] Use the Left Lift at the end to get out of Tarqaron. In Zaphias, speak with Ted near the Fountain for Yuri's Claimh Solais. Yuri will get Half Hope Of The Town title and in PS3 and Definitive Edition, Flynn will also get Half Hope Of The Town title (Hope Of The Town)
+- [ ] Equip the Shining Star title and make Raven as the On Screen Character. From the last Save Point, back track and keep going on E to a new area. Keep going down and continue on to trigger a scene (Encouragement Of The Schwann Team Final Part)
+- [ ] At the huge area with ladders, look for a path around the middle or the east. They lead to the __Susanoh__ and the __Uroboros__. With all seven (nine in PS3 and Definitive Edition) Fell Arms, exit out Tarqaron and head to Aurnion (In PS3 and Definitive Edition, you don't need to go to Aurnion. If you still haven't gotten Patty's and Flynn's Fell Arms, it is in Necropolis of Nostalgia). Go fight the Last Boss and you will fight his Third Form to unlock the Fell Arms. The strength of the Fell Arms depends on how many enemies killed with or without equipping the Fell Arms (Fell Arms Final Part)
+- [ ] Use the Left Lift at the end to get out of Tarqaron. In Zaphias, speak with Ted near the Fountain for Yuri's __Claiomh Solais__. Yuri will get __Hope Of The Town__ title and in PS3 and Definitive Edition, both Yuri and Flynn will get __Hope Of The Town__ title (Hope Of The Town)
+- [ ] Sleep at any Inn then talk to the Receptionist in Yumanju. Repeat for Flynn's __Spike Armor__ attachment, Judith's __Belle of the Ball__ title and Karol's __Black Tights__ title (PS3 and Definitive Edition)
 
 ### Combination Mystic Artes
 
@@ -473,10 +473,9 @@ There are few ways to do so:
 ## After Beating the Game
 
 - [ ] In Phaeroh's Crag, get near the Phantom Rift. Within Yormgen, speak with the Sage within the NW House. Head to Dahngrest and exit out. Fly toward the south of Yumanju and you will discover the Extra Dungeon. Gather enough Imitation Gald then Defeat Kratos at the end to get Braver's Invitation which will unlock 200 Man Melee if you have cleared 100 Man Melee with at least three characters (Extra Dungeon Final Part)
-- [ ] Unlock 200 Man Melee and if you have cleared Majestic Rank of Team Battle, you will unlock Merciless Rank of Team Battle. Clear it for Limits Octet (PS3 and Definitive Edition)
-- [ ] If you have completed all Secret Missions in the same playthrough, speak with Flynn in Aurnion for Yuri's True Knight title. In the PS3 and Definitive Edition, you need to sleep at the Inn of Aurnion (True Knight)
+- [ ] Unlock 200 Man Melee and if you have cleared Majestic Rank of Team Battle, you will unlock Merciless Rank of Team Battle. Clear it for __Limits Octet__ (PS3 and Definitive Edition)
+- [ ] If you have completed all Secret Missions in the same playthrough, speak with Flynn in Aurnion for Yuri's __True Knight__ title. In the PS3 and Definitive Edition, you need to sleep at the Inn instead (True Knight)
 - [ ] In Yumanju, equip everyone with the Hotspring Series titles and speak with the Receptionist (Hotspring Final Part)
-- [ ] Sleep at any Inn then talk to the Receptionist in Yumanju. Repeat for Flynn's Spike Armor attachment, Judith's Glamorous Beauty title and Karol's Black Tights title (PS3 and Definitive Edition)
-- [ ] Visit every location on the World Map including the Aer Krenes and the Extra Dungeon (In the PS3 and Definitive Edition, there is also the NEW Extra Dungeon Necropolis of Nostalgia). Sleep at the King Of Adventure to get Estelle's Curious Princess title (Curious Princess)
-- [ ] Once you have seen all 12 Friends of Patty's Mystic Artes Summon Friends, enter Nordopolica and head toward the north. On the way, you will see Gim on the stairs. Talk to him and Patty will obtain the Successor Of The Great Pirate's Name title (PS3 and Definitive Edition)
+- [ ] Visit every location on the World Map including the Aer Krenes and the Extra Dungeon (In the PS3 and Definitive Edition, there is also the NEW Extra Dungeon: Necropolis of Nostalgia). Sleep at the King Of Adventure to get Estelle's Curious Princess title (Curious Princess)
+- [ ] Once you have seen all 12 Friends of Patty's Mystic Artes __Summon Friends__, enter Nordopolica and head toward the north. On the way, you will see Gim on the stairs. Talk to him and Patty will obtain the __Successor Of The Great Pirate's Name__ title (PS3 and Definitive Edition)
 - [ ] You can now go down further in the Necropolis of Nostalgia (PS3 and Definitive Edition)
