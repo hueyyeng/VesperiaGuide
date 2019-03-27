@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.17 (2019-03-28)
+- WIP: Verify Act 3's missables.
+- Minor name updates to official English translation.
+- Rename `Combination Mystic Artes` to `Dual Mystic Artes` missables.
+
 ## 0.0.16 (2019-03-01)
 - Replace `Memory Circle` with `Save Point`
 - Update Act 3's After Aurnion missables.
