@@ -78,7 +78,7 @@ After Estelle joins back at the end:
  - [ ] Go on to the left from where Karol learns Bug Breath (Old Man's Wisdom)
  - [ ] If you have done (King Of Adventure Part 2) and from Where Karol learns Bug Breath, go down further to fight the Giganto __Green Menace__ (PS3 and Definitive Edition)
  - [ ] In the second area, you will meet Patty (PS3 and Definitive Edition)
- - [ ] After beating Giga Larva, back track to fight Don Whitehorse (99764 HP On Easy, 142520 HP On Normal, 356300 HP On Hard). He can drop Diamond if you do beat him... ___in your next New Game EX playthrough___ (PS3 and Definitive Edition)
+ - [ ] After beating Gigalarva, back track to fight Don Whitehorse (99764 HP (Easy), 142520 HP (Normal), 356300 HP (Hard)). He can drop Diamond if you do beat him... ___in your next EX New Game playthrough___ (PS3 and Definitive Edition)
 
 ## Dahngrest
 ![screenshot](images/act-one-027.jpg)
@@ -333,7 +333,7 @@ After Estelle joins back at the end:
 ## After Capua Nor
 ![screenshot](images/act-three-152.jpg)
 
-- [ ] In Zaphias, enter Estelle's Room in the Castle to hear about the Garden of the Waning Moon. Go to the last area in Zaude and you will be able to enter the Necropolis of Nostalgia. At the first layer, *Soten Layer* Azure Sky Layer, you can find Flynn's Fell Weapon Seven-Branched Blade at the NW of the 8F. At the second layer, *Current Generation* Current Life Layer, you can find Patty's Fell Weapon Corbis at the SE of 9F. After beating Ohma, you won't be able to advance further until you have beaten the game (PS3 and Definitive Edition)
+- [ ] In Zaphias, enter Estelle's Room in the Castle to hear about the City of the Waning Moon. Go to the last area in Zaude and you will be able to enter the Necropolis of Nostalgia. At the first area, __Firmament__, you can find Flynn's Fell Weapon __Seven-Branched Blade__ at the NW of the 8F. At the second area, __Existence__, you can find Patty's Fell Weapon __Corbis__ at the SE of 9F. After beating __Ohma__, you won't be able to advance further until you have beaten the game (PS3 and Definitive Edition)
 - [ ] In Zaphias, head down toward the Fountain in Lower Quarter from the top of the slope. After that, head towards the Castle. In the PS3 and Definitive Edition, enter through the Lower Quarter before heading to the Castle (Future Of Blastia)
 - [ ] In Zaphias, sleep in Yuri's Room to trigger a scene where Rita gets __Estelle's Best Friend__ title while Estelle gets __Best Friends__ title (PS3 and Definitive Edition)
 
@@ -343,7 +343,7 @@ After Estelle joins back at the end:
 - [ ] After beating all eleven Giganto Monsters, go back to speak with Rich for Karol's __Valiant Swordsman__ title. Go back to Capua Torim to speak with Rich's Father and report back to Rich (King Of Adventure Part 3)
 - [ ] In Capua Torim, you can enter the Lighthouse which is Patty's Home (PS3 and Definitive Edition)
 - [ ] In Nam Cobanda Isle, talk to the Cow Boy at NE. For 300 Chips, you can fight specific bosses for any missed Secret Mission. However, you don't get any Grade, Item, EXP and Gald (PS3 and Definitive Edition)
-- [ ] In Nam Cobanda Isle, enter the Gym. Speak with the Cow Boy at the Chip Exchange, Poker Table and the Ant Lion by the Toy Machines. Use over 250000 worth of Chips to trade in Prizes for Judith's __Poker Face__ title. After, exit out the Gym and enter the Shoe Locker (Poker Face)
+- [ ] In Nam Cobanda Isle, enter the Gym. Speak with the Cow Boy at the Chip Exchange, Poker Table and the Ant Lion by the Toy Machines. Use over 250000 worth of Chips to trade in Prizes for Judith's __Poker Face__ title. Exit out the Gym and enter the Shoe Locker room (Poker Face)
 - [ ] In Nam Cobanda Isle, enter the Gym and speak with the Cow Boy at the Poker Table if you haven't done so yet. Exit out and enter back the Gym to trigger the scene with Kaufman. Whether you win or lose the match, Judith will get the __Legendary Gambler__ title (Gamble Life)
 - [ ] In Nam Cobanda Isle, speak with the Ant Lion near the entrance/exit after you have done (Favorite Toys Final Part). If you have opened up 445 (86%) Treasure Boxes, you will get Yuri's Treasure Hunter title (Treasure Hunter)
 
@@ -450,7 +450,7 @@ Here's the list of artes (thanks to __Massicot__ from ResetEra!):
 ![screenshot](images/act-three-183.jpg)
 
 - [ ] After (Guild Quest Part 7), go toward the tree in Halure to get Rita's __Ivy Blade__ (Spirit Magic Final Part)
-- [ ] In Mantaic, hand over Silver Edge + 1 Alpha to Cow Boy for Spectacles, Krona Symbol, Blue Dice, Reverse Doll, Holy Avenger, Super Electric Yoyo, Dragon Helm, Paladin Mantle, Black Onyx, Special Gel, Red Sage, Hourglass, Alexandrite and Reverse Doll (Cow Boy Final Part)
+- [ ] In Mantaic, hand over Silver Edge + 1 Alpha to Cow Boy for Magic Lens, Krona's Symbol, Blue Dice, Rebirth Doll, Holy Avenger, Hypershock Yo-yo, Dragon Helm, Paladin Cape, Black Onyx, Special Gel, Red Sage, Hourglass, another Rebirth Doll, and an Alexandrite (Cow Boy Final Part)
 - [ ] Repeatedly use any tent item on the World Map for Flynn to learn __Dazzling Spin__ (PS3 and Definitive Edition)
 - [ ] In the Renansula Hollow, head towards the graveyard (PS3 and Definitive Edition)
 - [ ] Enter Relewiese Hollow for a scene with Sylph (PS3 and Definitive Edition)
@@ -484,7 +484,7 @@ Here's the list of artes (thanks to __Massicot__ from ResetEra!):
 - [ ] In Dahngrest, talk to the cat by the western entrance/exit. In Aurnion, head toward the west when you have completed 85% of the Dog Map. You will get the __Pork Chop__ attachment and Little Wolf's territories will not expand anymore (Dog Map Part 2)
 - [ ] In Zaphias, talk to the dog near the Save Point when you have completed 95% of the Dog Map. You will get Repede's __Great Boss__ title (Dog Map Final Part)
 
-## Tarqaron
+## After Tarqaron Rises
 
 ![screenshot](images/act-three-179.jpg)
 
@@ -494,11 +494,12 @@ Here's the list of artes (thanks to __Massicot__ from ResetEra!):
 
 - [ ] In Developed Aurnion, speak with Ioder at the west to get Estelle's __Blue Crystal Rod__ (Estelle's Teacher Final Part)
 - [ ] In Developed Aurnion, arrange the Warehouse for Special Gel, Strange Piece, Spring Of Knowledge, 2000 Gald and Karol's Warehouse Master title (Tidy Up The Warehouse Final Part)
-- [ ] Equip the Shining Star title and make Raven as the On Screen Character. From the last Save Point, back track and keep going on E to a new area. Keep going down and continue on to trigger a scene (Encouragement Of The Schwann Team Final Part)
+- [ ] Sleep at any Inn and talk to the Receptionist in Yumanju. Repeat for Flynn's __Spike Armor__ attachment, Judith's __Belle of the Ball__ title and Karol's __Black Tights__ title (PS3 and Definitive Edition)
 
 ![screenshot](images/act-three-181.jpg)
 
 - [ ] At the area where you fight with Zagi for the final time, use the Sorcerer's Ring to blast the wall at the end and keep walking towards the tower to find __Berserker Heart__ for Flynn (PS3 and Definitive Edition)
+- [ ] Equip the Shining Star title and make Raven as the On Screen Character. From the last Save Point in Tarqaron, back track and keep going on E to a new area. Keep going down and continue on to trigger a scene (Encouragement Of The Schwann Team Final Part)
 
 ![screenshot](images/act-three-188.jpg)
 
@@ -506,8 +507,7 @@ Here's the list of artes (thanks to __Massicot__ from ResetEra!):
 
 ![screenshot](images/act-three-182.jpg)
 
-- [ ] Use the Left Lift at the end to get out of Tarqaron. In Zaphias, speak with Ted near the Fountain for Yuri's __Claiomh Solais__. Yuri will get __Hope Of The Town__ title and in PS3 and Definitive Edition, both Yuri and Flynn will get __Hope Of The Town__ title (Hope Of The Town)
-- [ ] Sleep at any Inn then talk to the Receptionist in Yumanju. Repeat for Flynn's __Spike Armor__ attachment, Judith's __Belle of the Ball__ title and Karol's __Black Tights__ title (PS3 and Definitive Edition)
+- [ ] Before facing Duke, exit Tarqaron using the unlocked lift. In Zaphias, speak with Ted near the Fountain for Yuri's __Claiomh Solais__. Yuri will get __Hope Of The Town__ title and in PS3 and Definitive Edition, both Yuri and Flynn will get __Hope Of The Town__ title (Hope Of The Town)
 
 ### Dual Mystic Artes
 

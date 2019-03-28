@@ -1,6 +1,6 @@
 # Base requirements
 
-mkdocs==1.8.4
+mkdocs==1.0.4
 markdown-checklists==0.6.3
 mkdocs-rtd-dropdown==1.0.2
 pymdown-extensions==6.0
