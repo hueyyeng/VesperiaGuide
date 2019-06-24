@@ -1,9 +1,15 @@
 site_name: Vesperia Guide
+site_description: Missables checklist guide for Tales of Vesperia in Markdown format.
+site_author: Huey Yeng
+site_url: https://hueyyeng.github.io/VesperiaGuide/
+repo_url: https://github.com/hueyyeng/VesperiaGuide
+
 nav:
   - Home: index.md
   - Missables Checklist: missables.md
   - Spoiler-free Missables Checklist: missables_spoiler_free.md
   - Recipes Checklist: recipes.md
+  - Labyrinth of Memories Map: labyrinth_memories_map/index.md
   - CHANGELOG: CHANGELOG.md
 markdown_extensions:
   - markdown_checklists.extension
