@@ -1,10 +1,7 @@
 # Missables Checklist for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 28 March 2019
+- Last updated: 12 July 2020
 - Source: [Kouli's Guide - Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
-
-### TODO:
-- Insert screenshots/video links.
 
 # Act One
 
@@ -279,7 +276,7 @@ After Estelle joins back at the end:
 
 - [ ] In Zaphias, talk to LeBlanc for Raven's __Imperial Knights Captain__ title (Rebuilding The Union Part 2)
 - [ ] In Zaphias, head toward the Nobles Quarter (Dark Enforcer Part 5)
-- [ ] In Deidon Hold, talk to the Man near the tents to play __Repede's Pro Snowboarding__ minigame. Clear it in short amount of time then quit the Mini Game for Repede's __Snow Delivery Dog__. When clearing the other courses, Repede needs to equip specific Overdrive Attachment to match the Referees of the course (PS3 and Definitive Edition)
+- [ ] In Deidon Hold, talk to the Man near the tents to play __Repede's Pro Snowboarding__ minigame. Clear it in short amount of time then quit the minigame for Repede's __Snow Delivery Dog__. When clearing the other courses, Repede needs to equip specific Overdrive Attachment to match the Referees of the course (PS3 and Definitive Edition)
 - [ ] In Myorzo, enter the Elder's House. Check the stand before the back wall to get the __Bush Baby Doll__. Go to Aspio and speak with Tort for Estelle to learn __Astion__. If you are to do this later in the game, go to Deidon Hold instead of Aspio (Krytian Style Fighting)
 - [ ] In Myorzo, ___after finishing the above sidequest___, enter the Elder's House. Check the stand before the back wall (Feelings In The Mural)
 - [ ] In Yumanju, pay 300000 Gald. After, sleep at any Inn and come back to Pay 600000 Gald (Hotspring Part 2)
@@ -435,7 +432,7 @@ Here's the list of artes (thanks to __Massicot__ from ResetEra!):
 - [ ] In Aurnion, toward the left of the Blastia when Repede is at least Level 60 to get Repede's __Tough Hound__ title (Tough Hound)
 - [ ] After (Tough Hound), sleep at King Of Adventure twice to get Repede's __Shining Fang__, __Order of the Loyal Hound__ and Repede's __Ultimate Dog Warrior__ title (King Of Adventure Final Part)
 - [ ] In Aurnion, find Drake at NW for Yuri's __Certified Soldier__ title (Estelle's Teacher Part 5)
-- [ ] Enter Aurnion and you will get Raven's __Shining Star title__ if Raven has at least 100 Skills (Encouragement Of The Schwann Team Part 1)
+- [ ] Enter Aurnion and you will get Raven's __Shining Star__ title if Raven has at least 100 Skills (Encouragement Of The Schwann Team Part 1)
 - [ ] In Aurnion, speak with the Doctor in the Inn. Reenter the Inn and speak with the Doctor again. Speak with the Man that is near the Inn Owner. Once your party have healed at least 4000000 HPs, toward the Inn for Estelle's __Dedicated Paramedic__ title (Dedicated Paramedic)
 - [ ] In Aurnion, if you have done (Estelle's Teacher Part 5) then talk to Drake at NE for Flynn's __Ideal Commandant__ title (PS3 and Definitive Edition)
 
@@ -467,7 +464,7 @@ Here's the list of artes (thanks to __Massicot__ from ResetEra!):
 - [ ] Back track out to meet with Hisca and Chastel. They will give the __Sword Of Prayer Rag Querion__ to Flynn.
 
 ### Judith's Brionac Sidequest
-> __NOTE:__ Kouli's guide __warned__ us to not exit Aurnion until the scene with Kaufman. From my playtesting, I need to exit out of Aurnion and reenter to trigger the scene.
+> __NOTE:__ Kouli's guide __warned__ us to not exit Aurnion until the scene with Kaufman. From my playthrough, I need to exit out of Aurnion and reenter to trigger the scene.
 
 ![screenshot](images/act-three-171.jpg)
 
@@ -493,7 +490,7 @@ Here's the list of artes (thanks to __Massicot__ from ResetEra!):
 ![screenshot](images/act-three-180.jpg)
 
 - [ ] In Developed Aurnion, speak with Ioder at the west to get Estelle's __Blue Crystal Rod__ (Estelle's Teacher Final Part)
-- [ ] In Developed Aurnion, arrange the Warehouse for Special Gel, Strange Piece, Spring Of Knowledge, 2000 Gald and Karol's Warehouse Master title (Tidy Up The Warehouse Final Part)
+- [ ] In Developed Aurnion, arrange the Warehouse for Special Gel, Strange Piece, Spring Of Knowledge, 2000 Gald and Karol's __Warehouse Master__ title (Tidy Up The Warehouse Final Part)
 - [ ] Sleep at any Inn and talk to the Receptionist in Yumanju. Repeat for Flynn's __Spike Armor__ attachment, Judith's __Belle of the Ball__ title and Karol's __Black Tights__ title (PS3 and Definitive Edition)
 
 ![screenshot](images/act-three-181.jpg)

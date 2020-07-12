@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.19 (2020-07-12)
+- Add cooking icons for recipes checklist.
+- Update spoiler-free missables checklist to match missables checklist content.
+- Minor typo fix for missables checklist.
+
 ## 0.0.18 (2019-06-24)
 - Add Labyrinth of Memories Map.
 
