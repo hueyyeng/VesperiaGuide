@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.20 (2021-03-07)
+- Update Karol's Small Knight missable title (thanks Collins!)
+
 ## 0.0.19 (2020-07-12)
 - Add cooking icons for recipes checklist.
 - Update spoiler-free missables checklist to match missables checklist content.
