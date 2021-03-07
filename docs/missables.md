@@ -1,6 +1,6 @@
 # Missables Checklist for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 12 July 2020
+- Last updated: 07 March 2021
 - Source: [Kouli's Guide - Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 # Act One
