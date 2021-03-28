@@ -1,13 +1,11 @@
 # Spoiler-free Missables Checklist for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 12 July 2020
+- Last updated: 28 March 2021
 - Source: [Kouli's Guide - Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 I replaced any potential plot reference with generic names. To keep you guessing, I also removed the type of rewards from completing a sidequest.
 
 The name of the locations and playable characters are left intact as they are the core feature of the game. If you treat it as spoiler, that is on you.
-
-__The third act will be ready approximately by end of February 2019 as I need to finish my first playthrough of the Definitive Edition. I have beaten the game on the Xbox 360 without a guide so I'm taking my time to ensure I do not miss out on any missables in this playthrough.__
 
 # Act One
 
