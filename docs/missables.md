@@ -1,6 +1,6 @@
 # Missables Checklist for Tales of Vesperia
 - Author: [@tauke](https://twitter.com/tauke)
-- Last updated: 07 March 2021
+- Last updated: 28 March 2021
 - Source: [Kouli's Guide - Tales of Vesperia](https://www.scribd.com/document/397057683/Kouli-s-Guide-Tov)
 
 # Act One
@@ -57,7 +57,7 @@
 After Estelle joins back at the end:
 
  - [ ] Get near the Barrier Blastia to find Drake (Estelle's Teacher Part 1)
- - [ ] Enter the Chevaliers HQ to find Asciutto. The dialogue differs if you wait until Raven joins the party (Yuri And The Chevaliers)
+ - [ ] Enter the Chevaliers HQ to find Hachette. The dialogue differs if you wait until Raven joins the party (Yuri And The Chevaliers)
  - [ ] Rest at the Inn (Laborer)
  - [ ] Go right just before the Inn to find the Wonder Reporter (Wonder Reporter Part 2)
  - [ ] Go back to Caer Bocram and head left to find Duke (Duke Part 2)
