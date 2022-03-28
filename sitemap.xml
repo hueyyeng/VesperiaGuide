@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://hueyyeng.github.io/VesperiaGuide/</loc>
-     <lastmod>2021-03-28</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://hueyyeng.github.io/VesperiaGuide/</loc>
+         <lastmod>2022-03-28</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://hueyyeng.github.io/VesperiaGuide/missables/</loc>
-     <lastmod>2021-03-28</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://hueyyeng.github.io/VesperiaGuide/CHANGELOG/</loc>
+         <lastmod>2022-03-28</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://hueyyeng.github.io/VesperiaGuide/missables_spoiler_free/</loc>
-     <lastmod>2021-03-28</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://hueyyeng.github.io/VesperiaGuide/missables/</loc>
+         <lastmod>2022-03-28</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://hueyyeng.github.io/VesperiaGuide/recipes/</loc>
-     <lastmod>2021-03-28</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://hueyyeng.github.io/VesperiaGuide/missables_spoiler_free/</loc>
+         <lastmod>2022-03-28</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://hueyyeng.github.io/VesperiaGuide/labyrinth_memories_map/</loc>
-     <lastmod>2021-03-28</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://hueyyeng.github.io/VesperiaGuide/recipes/</loc>
+         <lastmod>2022-03-28</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://hueyyeng.github.io/VesperiaGuide/CHANGELOG/</loc>
-     <lastmod>2021-03-28</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://hueyyeng.github.io/VesperiaGuide/labyrinth_memories_map/</loc>
+         <lastmod>2022-03-28</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
