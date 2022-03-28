@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.0.22 (2022-03-29)
+- [Fix checkboxes cookies not persisting after browser is closed](https://github.com/hueyyeng/VesperiaGuide/issues/6)
+- Add hidden whitespace `&#32` for Spoiler-free Missables Checklist items
+- Minor file restructuring (because I misread mkdocs documentation!)
+- Update README.md
+- Various typo fixes
+
 ## 0.0.21 (2021-03-28)
 - Replace Asciutto with Hachette (thanks André!)
 
