@@ -56,7 +56,7 @@ pip install -r requirements/base.txt
 
 ### Using MkDocs to Generate the Guide
 
-1. Make sure the current working directory has `mkdocs.yml`, __docs__ and __custom_theme__ directories.
+1. Make sure the current working directory has `mkdocs.yml` and **docs** directory.
 
 ```bash
 # Generate the guide and serve on localhost
