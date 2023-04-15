@@ -2,7 +2,7 @@ function setCheckboxValue() {
   localStorage.setItem(this.id, this.checked);
 }
 
-$(document).ready(function () {
+document.addEventListener('DOMContentLoaded', function() {
   const taskListItems = document.getElementsByClassName('task-list-item');
 
   for (let index = 0; index < taskListItems.length; index++) {

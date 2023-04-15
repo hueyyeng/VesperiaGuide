@@ -12,9 +12,19 @@ nav:
   - Labyrinth of Memories Map: labyrinth_memories_map/index.md
   - CHANGELOG: CHANGELOG.md
 
+plugins:
+  - search:
+      lang: en
+  - glightbox
+
 markdown_extensions:
   - markdown_checklists.extension
   - pymdownx.tilde
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_css:
   - css/custom.css
@@ -23,4 +33,24 @@ extra_javascript:
   - js/checkbox.js
 
 theme:
-  name: rtd-dropdown
+  name: material
+  features:
+    - search.suggest
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      toggle:
+       icon: material/weather-night
+       name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+       icon: material/weather-sunny
+       name: Switch to light mode
+
+  logo: 'images/vesperia_logo.png'

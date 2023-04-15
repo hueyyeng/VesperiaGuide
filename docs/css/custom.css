@@ -1,20 +1,15 @@
+[data-md-color-scheme="slate"] {
+  --md-hue: 240;
+  --md-default-bg-color: hsla(0, 0%, 11%, 1);
+}
+
 .task-list-item {
   list-style-type: none !important;
 }
 
 .task-list-item input[type="checkbox"] {
-  margin: 0 4px 0.25em -20px;
-  vertical-align: middle;
-}
-
-label {
-    display: inline;
-	color: #333;
-	font-size: 100%;
-}
-
-.toctree-expand {
-    line-height: 1.6;
-    position: relative;
-    left: -1.1em;
+  margin: 0 4px 0.25em -20px !important;
+  vertical-align: middle !important;
+  position: unset !important;
+  transform: scale(1.33);
 }
