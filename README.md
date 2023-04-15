@@ -35,7 +35,7 @@ python -m venv env
 source env/bin/activate
 
 # Install Python dependencies
-pip install -r requirements/base.txt
+pip install -r requirements.txt
 ```
 
 #### For Windows
@@ -51,7 +51,7 @@ python -m venv env
 source env/Scripts/activate
 
 # Install Python dependencies
-pip install -r requirements/base.txt
+pip install -r requirements.txt
 ```
 
 ### Using MkDocs to Generate the Guide

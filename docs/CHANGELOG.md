@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.00 (2023-04-15)
+- Switch to Material for MkDocs
+- Various optimization with Material for MkDocs
+
 ## 0.0.22 (2022-03-29)
 - [Fix checkboxes cookies not persisting after browser is closed](https://github.com/hueyyeng/VesperiaGuide/issues/6)
 - Add hidden whitespace `&#32` for Spoiler-free Missables Checklist items
